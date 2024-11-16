@@ -1,0 +1,1001 @@
+Student ID,Region,Socioeconomic Status,Parent Education Status,English,Kiswahili,Mathematics,Biology,Chemistry,Physics,Geography,History and Government,Christian Religious Education,Overall Grade,Course,Course Completion
+1,Eldoret,Upper,High School,50,68,87,88,76,58,67,43,75,68.0,Law,Yes
+2,Eldoret,Lower,None,78,55,68,56,87,51,84,89,41,68.0,Law,Yes
+3,Nairobi,Middle,University,54,52,83,57,67,89,66,77,46,66.0,Law,Yes
+4,Kisumu,Middle,University,69,66,57,57,70,43,48,83,42,59.0,Business,Yes
+5,Mombasa,Upper,None,45,57,68,50,67,53,50,72,56,58.0,Business,Yes
+6,Mombasa,Middle,University,61,69,85,82,69,81,75,65,45,70.0,Medicine,No
+7,Nairobi,Lower,High School,75,40,53,89,80,63,58,75,51,65.0,Law,Yes
+8,Kisumu,Upper,University,89,78,52,76,56,64,60,79,67,69.0,Law,No
+9,Kisumu,Upper,University,89,89,47,70,78,43,59,46,72,66.0,Law,No
+10,Eldoret,Middle,High School,84,60,63,61,41,56,55,75,47,60.0,Law,Yes
+11,Mombasa,Lower,None,57,70,79,68,69,58,88,81,77,72.0,Medicine,No
+12,Mombasa,Lower,University,62,64,53,81,40,63,66,78,45,61.0,Law,No
+13,Mombasa,Middle,University,52,75,43,44,74,70,46,84,67,62.0,Law,Yes
+14,Kisumu,Upper,High School,82,84,83,85,89,61,78,40,74,75.0,Medicine,Yes
+15,Eldoret,Lower,University,47,60,51,46,47,84,49,73,77,59.0,Business,No
+16,Kisumu,Lower,None,44,57,66,62,89,62,50,82,89,67.0,Law,No
+17,Kisumu,Middle,University,44,44,61,63,58,52,60,63,58,56.0,Business,Yes
+18,Kisumu,Middle,High School,57,48,55,74,61,55,67,52,63,59.0,Business,No
+19,Kisumu,Middle,University,56,74,46,66,81,56,85,74,84,69.0,Law,No
+20,Nairobi,Middle,High School,76,46,87,41,89,54,84,58,63,66.0,Law,Yes
+21,Nairobi,Lower,High School,52,72,47,69,82,59,71,55,44,61.0,Law,Yes
+22,Nairobi,Upper,None,77,82,78,87,72,86,43,58,77,73.0,Medicine,No
+23,Kisumu,Lower,High School,87,67,48,46,64,83,71,64,86,68.0,Law,Yes
+24,Kisumu,Lower,High School,80,59,52,44,76,56,40,59,70,60.0,Business,No
+25,Mombasa,Upper,None,81,61,63,44,63,51,84,41,70,62.0,Law,Yes
+26,Eldoret,Upper,High School,76,68,79,82,86,79,46,74,72,74.0,Medicine,No
+27,Kisumu,Lower,High School,44,48,45,82,74,73,86,45,66,63.0,Law,Yes
+28,Mombasa,Middle,High School,89,61,63,65,75,44,79,61,77,68.0,Law,Yes
+29,Nairobi,Lower,High School,68,88,55,84,69,84,64,54,85,72.0,Medicine,Yes
+30,Kisumu,Middle,None,55,84,48,55,49,80,41,71,89,64.0,Law,Yes
+31,Kisumu,Upper,High School,53,70,59,86,41,42,89,77,51,63.0,Law,No
+32,Kisumu,Upper,None,43,77,62,45,47,81,43,72,53,58.0,Business,No
+33,Nairobi,Middle,University,61,81,61,58,59,80,84,62,71,69.0,Law,No
+34,Kisumu,Lower,None,51,81,61,85,67,42,72,47,67,64.0,Law,Yes
+35,Nairobi,Lower,University,87,43,52,64,89,50,40,76,49,61.0,Law,No
+36,Mombasa,Lower,University,83,60,60,43,72,53,87,86,50,66.0,Law,Yes
+37,Eldoret,Lower,None,60,61,86,81,54,57,50,46,52,61.0,Law,No
+38,Nairobi,Lower,High School,44,44,52,49,72,54,53,82,63,57.0,Business,No
+39,Nairobi,Middle,None,47,75,82,75,48,49,51,74,78,64.0,Law,No
+40,Mombasa,Lower,University,40,74,50,71,50,61,63,89,83,65.0,Law,No
+41,Eldoret,Upper,High School,48,73,59,76,56,60,72,81,66,66.0,Law,Yes
+42,Mombasa,Lower,High School,86,59,77,45,42,58,79,43,74,63.0,Law,Yes
+43,Eldoret,Middle,High School,75,50,43,75,89,55,67,57,78,65.0,Law,Yes
+44,Eldoret,Middle,None,58,66,61,51,62,58,40,68,84,61.0,Law,Yes
+45,Kisumu,Upper,High School,63,71,44,42,56,81,85,42,40,58.0,Business,Yes
+46,Mombasa,Middle,University,44,79,82,40,53,78,82,83,60,67.0,Law,Yes
+47,Nairobi,Upper,None,80,45,73,79,71,75,63,81,85,72.0,Medicine,Yes
+48,Eldoret,Lower,High School,46,76,81,41,64,78,87,69,68,68.0,Law,Yes
+49,Mombasa,Lower,None,47,82,52,68,76,41,86,68,63,65.0,Law,No
+50,Mombasa,Upper,None,55,47,60,64,57,86,87,52,44,61.0,Law,No
+51,Mombasa,Middle,High School,59,89,72,47,68,76,44,62,81,66.0,Law,No
+52,Kisumu,Upper,University,59,85,72,84,71,50,45,82,70,69.0,Law,Yes
+53,Kisumu,Lower,High School,79,47,54,74,45,71,76,53,87,65.0,Law,Yes
+54,Nairobi,Lower,University,72,53,48,54,71,62,67,88,66,65.0,Law,Yes
+55,Kisumu,Upper,None,86,70,51,81,68,78,69,67,43,68.0,Law,No
+56,Mombasa,Lower,High School,55,84,42,67,65,61,87,51,54,63.0,Law,No
+57,Nairobi,Middle,High School,47,62,41,64,47,50,55,78,68,57.0,Business,No
+58,Nairobi,Middle,University,75,78,73,46,73,75,58,81,61,69.0,Law,No
+59,Mombasa,Upper,None,59,72,46,75,42,66,74,89,49,64.0,Law,No
+60,Nairobi,Lower,High School,89,53,79,59,68,67,79,45,45,65.0,Law,No
+61,Mombasa,Upper,University,44,52,78,81,68,73,47,71,48,62.0,Law,No
+62,Nairobi,Middle,University,53,68,65,54,47,51,42,77,70,59.0,Business,No
+63,Mombasa,Middle,High School,40,85,74,65,86,49,62,63,47,63.0,Law,No
+64,Nairobi,Lower,High School,64,66,71,86,44,82,73,68,74,70.0,Law,No
+65,Kisumu,Upper,None,64,79,70,40,71,56,57,71,82,66.0,Law,Yes
+66,Mombasa,Lower,None,43,60,47,75,50,49,55,70,42,55.0,Business,Yes
+67,Eldoret,Upper,None,82,68,77,54,63,81,46,64,45,64.0,Law,No
+68,Eldoret,Lower,None,59,72,71,78,49,51,52,54,69,62.0,Law,No
+69,Eldoret,Upper,University,51,74,43,79,81,49,64,60,41,60.0,Law,No
+70,Nairobi,Lower,University,55,81,84,56,55,62,70,50,46,62.0,Law,No
+71,Nairobi,Lower,University,41,65,65,73,46,61,60,79,55,61.0,Law,Yes
+72,Nairobi,Middle,None,43,89,41,85,81,87,61,88,82,73.0,Medicine,Yes
+73,Nairobi,Middle,University,42,82,64,55,78,68,84,45,48,63.0,Law,No
+74,Nairobi,Upper,University,65,67,64,73,41,64,84,63,79,67.0,Law,No
+75,Eldoret,Lower,None,57,71,65,69,72,55,76,66,45,64.0,Law,Yes
+76,Mombasa,Upper,None,71,53,60,76,53,41,65,58,73,61.0,Law,No
+77,Kisumu,Lower,High School,81,69,45,84,72,52,88,69,87,72.0,Medicine,No
+78,Kisumu,Upper,University,49,45,86,59,64,49,43,41,63,55.0,Business,No
+79,Nairobi,Upper,None,78,41,81,68,55,64,69,43,71,63.0,Law,No
+80,Kisumu,Upper,None,75,82,56,82,47,62,43,83,48,64.0,Law,No
+81,Mombasa,Lower,University,64,72,83,60,84,79,88,83,62,75.0,Medicine,No
+82,Nairobi,Upper,None,88,59,80,46,66,63,74,58,84,69.0,Law,No
+83,Eldoret,Lower,High School,54,57,58,40,64,70,74,62,86,63.0,Law,Yes
+84,Mombasa,Lower,University,58,81,54,53,47,85,62,75,80,66.0,Law,No
+85,Eldoret,Middle,None,81,55,45,74,64,74,87,51,41,64.0,Law,Yes
+86,Nairobi,Middle,High School,55,41,57,40,85,68,74,51,51,58.0,Business,Yes
+87,Eldoret,Lower,High School,57,72,57,46,64,84,49,53,48,59.0,Business,No
+88,Nairobi,Middle,High School,42,51,79,84,46,77,86,75,57,66.0,Law,No
+89,Kisumu,Middle,University,87,47,82,48,89,57,72,89,41,68.0,Law,Yes
+90,Nairobi,Lower,High School,44,83,73,67,65,73,85,87,59,71.0,Medicine,Yes
+91,Mombasa,Middle,None,49,87,53,58,63,44,59,68,46,59.0,Business,No
+92,Kisumu,Upper,None,44,73,76,43,80,49,48,70,75,62.0,Law,No
+93,Kisumu,Lower,University,66,69,76,73,86,68,83,57,48,70.0,Law,Yes
+94,Mombasa,Middle,High School,59,75,66,68,76,80,84,50,47,67.0,Law,No
+95,Mombasa,Middle,None,62,50,84,67,81,44,54,57,51,61.0,Law,Yes
+96,Mombasa,Lower,High School,77,70,44,50,82,42,52,73,46,60.0,Business,Yes
+97,Mombasa,Middle,High School,85,74,85,80,80,82,61,88,76,79.0,Medicine,Yes
+98,Eldoret,Lower,University,59,73,51,82,53,75,79,76,43,66.0,Law,No
+99,Mombasa,Middle,High School,46,64,53,88,70,68,89,56,67,67.0,Law,Yes
+100,Mombasa,Upper,University,76,73,74,53,86,80,44,62,86,70.0,Medicine,Yes
+101,Eldoret,Lower,None,48,62,52,88,75,68,60,46,53,61.0,Law,No
+102,Eldoret,Upper,High School,66,51,80,58,65,67,63,87,67,67.0,Law,No
+103,Eldoret,Lower,None,43,52,49,70,41,47,79,48,48,53.0,Business,No
+104,Eldoret,Upper,High School,55,62,40,85,76,66,45,43,85,62.0,Law,Yes
+105,Eldoret,Upper,None,55,64,84,43,73,48,48,63,71,61.0,Law,No
+106,Nairobi,Middle,High School,46,77,53,77,65,56,77,59,64,64.0,Law,Yes
+107,Kisumu,Upper,University,49,75,52,71,78,71,62,45,86,65.0,Law,Yes
+108,Mombasa,Upper,University,71,47,56,62,56,53,52,87,59,60.0,Law,No
+109,Mombasa,Middle,None,54,76,60,84,87,69,48,83,62,69.0,Law,Yes
+110,Nairobi,Lower,University,81,63,82,46,70,43,44,84,43,62.0,Law,No
+111,Nairobi,Middle,None,40,80,85,77,52,65,62,47,86,66.0,Law,No
+112,Kisumu,Upper,None,45,66,54,72,63,70,88,61,88,67.0,Law,No
+113,Eldoret,Middle,None,54,77,54,61,69,82,71,85,79,70.0,Medicine,No
+114,Nairobi,Middle,University,62,50,47,85,81,70,72,77,65,68.0,Law,Yes
+115,Mombasa,Middle,High School,44,71,76,41,41,56,86,87,59,62.0,Law,No
+116,Eldoret,Lower,None,80,81,48,43,62,71,67,63,80,66.0,Law,Yes
+117,Eldoret,Middle,University,60,56,64,59,61,45,63,88,58,62.0,Law,No
+118,Mombasa,Upper,University,47,47,70,83,77,54,67,80,88,68.0,Law,No
+119,Nairobi,Upper,None,76,63,49,74,79,68,44,80,40,64.0,Law,Yes
+120,Eldoret,Middle,None,62,77,83,84,89,53,82,85,60,75.0,Medicine,No
+121,Mombasa,Lower,High School,68,86,41,75,49,49,50,65,57,60.0,Law,Yes
+122,Eldoret,Lower,High School,72,55,45,51,86,86,55,55,60,63.0,Law,Yes
+123,Kisumu,Lower,None,68,80,42,58,67,44,75,73,88,66.0,Law,No
+124,Kisumu,Upper,High School,46,65,75,58,45,69,77,86,52,64.0,Law,No
+125,Nairobi,Lower,High School,80,85,48,79,65,44,72,50,54,64.0,Law,No
+126,Nairobi,Lower,None,89,50,66,55,63,72,87,80,42,67.0,Law,No
+127,Eldoret,Middle,None,59,85,45,81,54,49,48,80,43,60.0,Law,No
+128,Mombasa,Middle,University,87,83,83,72,52,79,43,79,50,70.0,Law,Yes
+129,Kisumu,Upper,None,78,79,67,78,57,44,41,81,71,66.0,Law,No
+130,Eldoret,Lower,None,60,54,57,40,64,76,64,76,86,64.0,Law,Yes
+131,Nairobi,Middle,High School,48,72,71,51,89,52,50,42,76,61.0,Law,No
+132,Eldoret,Middle,High School,44,78,56,41,54,86,72,54,48,59.0,Business,No
+133,Nairobi,Upper,University,53,54,44,74,46,74,86,79,67,64.0,Law,Yes
+134,Mombasa,Middle,High School,71,74,42,65,61,60,60,40,79,61.0,Law,No
+135,Nairobi,Middle,High School,72,66,87,78,63,47,45,49,88,66.0,Law,No
+136,Eldoret,Lower,High School,86,59,41,50,81,85,47,61,42,61.0,Law,Yes
+137,Kisumu,Upper,None,47,66,73,41,58,52,52,40,59,54.0,Business,No
+138,Nairobi,Lower,High School,48,65,87,46,40,59,76,63,76,62.0,Law,No
+139,Nairobi,Lower,None,48,49,87,81,71,89,84,80,78,74.0,Medicine,Yes
+140,Kisumu,Middle,High School,73,55,40,78,78,52,42,70,61,61.0,Law,No
+141,Eldoret,Middle,University,40,55,77,43,54,81,50,54,42,55.0,Business,Yes
+142,Nairobi,Middle,High School,62,55,46,86,48,61,77,84,57,64.0,Law,Yes
+143,Mombasa,Upper,University,47,45,59,79,58,48,49,60,81,58.0,Business,No
+144,Eldoret,Lower,None,66,53,74,82,80,86,41,58,46,65.0,Law,Yes
+145,Mombasa,Middle,None,72,63,55,82,40,80,75,56,55,64.0,Law,No
+146,Eldoret,Lower,High School,78,88,67,52,44,85,60,69,54,66.0,Law,Yes
+147,Eldoret,Lower,University,80,87,65,46,89,46,73,64,42,66.0,Law,Yes
+148,Kisumu,Lower,None,63,72,44,86,43,46,79,78,53,63.0,Law,Yes
+149,Nairobi,Lower,High School,56,67,67,73,77,40,48,41,65,59.0,Business,Yes
+150,Eldoret,Lower,None,77,73,79,41,56,70,45,59,50,61.0,Law,Yes
+151,Kisumu,Lower,None,58,60,79,83,80,56,47,68,48,64.0,Law,Yes
+152,Eldoret,Upper,None,78,40,53,65,58,64,71,69,89,65.0,Law,Yes
+153,Mombasa,Lower,None,75,85,80,85,58,82,64,52,85,74.0,Medicine,No
+154,Mombasa,Middle,None,70,84,72,68,85,67,56,85,69,73.0,Medicine,No
+155,Eldoret,Upper,None,60,83,50,82,81,76,89,45,47,68.0,Law,Yes
+156,Kisumu,Lower,None,56,76,62,88,76,67,42,59,61,65.0,Law,Yes
+157,Mombasa,Upper,High School,82,76,69,79,81,41,74,65,82,72.0,Medicine,No
+158,Nairobi,Middle,University,42,47,75,72,87,48,50,80,59,62.0,Law,No
+159,Kisumu,Upper,High School,77,85,74,46,80,40,63,49,46,62.0,Law,Yes
+160,Eldoret,Lower,High School,62,73,54,55,72,60,85,41,49,61.0,Law,No
+161,Nairobi,Lower,None,78,50,47,46,52,71,58,87,40,59.0,Business,No
+162,Nairobi,Middle,University,69,80,47,58,87,60,76,48,69,66.0,Law,Yes
+163,Kisumu,Lower,None,60,40,86,48,65,77,53,44,54,59.0,Business,Yes
+164,Eldoret,Middle,University,78,77,89,47,42,42,75,60,65,64.0,Law,No
+165,Kisumu,Middle,None,82,44,42,75,54,52,67,48,72,60.0,Business,Yes
+166,Mombasa,Middle,High School,53,80,40,52,55,71,40,50,59,56.0,Business,Yes
+167,Eldoret,Lower,University,64,41,86,71,83,72,77,88,55,71.0,Medicine,Yes
+168,Kisumu,Upper,High School,40,67,46,80,46,45,77,86,46,59.0,Business,No
+169,Eldoret,Upper,University,41,88,85,49,44,72,53,67,55,62.0,Law,Yes
+170,Eldoret,Lower,High School,54,87,50,55,70,57,88,83,58,67.0,Law,Yes
+171,Kisumu,Middle,High School,84,82,46,79,88,47,75,88,70,73.0,Medicine,Yes
+172,Nairobi,Middle,University,40,42,62,78,56,88,40,87,61,62.0,Law,No
+173,Eldoret,Middle,University,70,74,58,43,78,52,86,56,73,66.0,Law,No
+174,Mombasa,Lower,University,55,41,69,58,73,89,84,78,61,68.0,Law,No
+175,Nairobi,Middle,University,74,40,53,82,44,83,78,62,88,67.0,Law,Yes
+176,Nairobi,Upper,None,82,67,63,86,54,56,74,75,58,68.0,Law,Yes
+177,Mombasa,Lower,High School,71,65,78,66,70,79,70,87,45,70.0,Medicine,Yes
+178,Mombasa,Middle,University,62,41,57,60,67,43,79,70,79,62.0,Law,No
+179,Eldoret,Middle,University,54,72,84,43,85,65,73,53,64,66.0,Law,No
+180,Mombasa,Middle,University,70,62,53,43,53,79,40,79,82,62.0,Law,No
+181,Mombasa,Lower,High School,81,82,80,55,47,50,55,47,68,63.0,Law,Yes
+182,Kisumu,Lower,None,79,62,47,44,58,56,53,51,51,56.0,Business,Yes
+183,Kisumu,Upper,High School,86,69,83,66,40,85,86,49,73,71.0,Medicine,Yes
+184,Eldoret,Middle,University,81,50,70,42,61,76,77,75,49,65.0,Law,No
+185,Mombasa,Middle,High School,56,50,80,78,56,70,49,44,53,60.0,Business,Yes
+186,Nairobi,Lower,High School,74,80,55,62,43,40,84,84,72,66.0,Law,Yes
+187,Eldoret,Upper,None,46,76,44,53,80,42,86,58,84,63.0,Law,No
+188,Kisumu,Upper,High School,73,45,78,44,55,40,75,62,59,59.0,Business,No
+189,Mombasa,Middle,University,86,88,48,67,43,80,78,45,65,67.0,Law,No
+190,Mombasa,Lower,University,46,82,47,65,63,70,57,75,63,63.0,Law,Yes
+191,Mombasa,Middle,University,77,77,83,70,75,64,40,58,61,67.0,Law,No
+192,Nairobi,Lower,High School,63,42,70,44,87,40,53,68,54,58.0,Business,Yes
+193,Eldoret,Upper,None,71,81,63,54,61,50,57,86,59,65.0,Law,Yes
+194,Mombasa,Lower,High School,42,65,89,41,55,62,53,60,76,60.0,Law,No
+195,Eldoret,Middle,High School,80,61,67,73,40,88,80,85,65,71.0,Medicine,Yes
+196,Eldoret,Middle,High School,75,59,75,43,67,81,80,81,41,67.0,Law,No
+197,Eldoret,Lower,High School,73,67,51,88,65,72,88,48,83,71.0,Medicine,Yes
+198,Mombasa,Middle,High School,52,89,46,52,48,70,45,41,59,56.0,Business,No
+199,Nairobi,Middle,University,56,87,65,43,61,67,86,54,58,64.0,Law,Yes
+200,Nairobi,Upper,University,53,54,50,47,46,60,80,79,49,58.0,Business,No
+201,Nairobi,Middle,University,62,80,73,60,81,42,42,83,74,66.0,Law,Yes
+202,Nairobi,Middle,High School,82,48,50,73,45,86,52,57,74,63.0,Law,Yes
+203,Kisumu,Lower,None,83,77,43,50,89,81,42,46,51,62.0,Law,Yes
+204,Kisumu,Lower,High School,76,61,43,66,54,47,84,63,77,63.0,Law,No
+205,Eldoret,Lower,University,81,59,59,54,88,75,63,88,56,69.0,Law,No
+206,Mombasa,Middle,None,86,79,86,56,86,57,89,88,76,78.0,Medicine,Yes
+207,Kisumu,Upper,High School,86,56,48,63,48,70,80,50,74,64.0,Law,Yes
+208,Mombasa,Upper,High School,40,73,78,83,52,42,83,54,85,66.0,Law,Yes
+209,Eldoret,Lower,University,47,53,41,62,56,72,81,77,83,64.0,Law,No
+210,Nairobi,Middle,University,52,65,70,52,89,45,67,49,56,61.0,Law,No
+211,Mombasa,Upper,None,89,89,79,44,56,54,62,46,45,63.0,Law,Yes
+212,Nairobi,Upper,University,67,45,75,52,69,82,53,83,42,63.0,Law,Yes
+213,Eldoret,Upper,None,45,46,84,89,41,83,58,61,44,61.0,Law,No
+214,Eldoret,Middle,High School,47,55,61,70,51,70,57,59,62,59.0,Business,Yes
+215,Kisumu,Upper,High School,56,78,41,51,82,86,63,72,79,68.0,Law,Yes
+216,Nairobi,Upper,None,54,51,87,86,54,68,88,82,63,70.0,Medicine,No
+217,Mombasa,Lower,High School,53,86,41,71,58,40,63,75,78,63.0,Law,Yes
+218,Nairobi,Lower,None,44,77,55,79,40,58,64,69,74,62.0,Law,No
+219,Mombasa,Lower,None,48,72,61,59,51,69,46,86,86,64.0,Law,Yes
+220,Eldoret,Lower,High School,42,40,87,46,67,77,67,59,50,59.0,Business,Yes
+221,Eldoret,Middle,High School,40,78,46,83,70,87,84,41,74,67.0,Law,Yes
+222,Kisumu,Upper,None,63,41,84,74,43,74,46,88,57,63.0,Law,No
+223,Kisumu,Upper,None,85,68,49,47,67,53,78,85,81,68.0,Law,Yes
+224,Mombasa,Middle,University,53,40,41,65,75,48,82,58,80,60.0,Law,No
+225,Nairobi,Middle,University,51,56,78,46,70,76,55,76,73,65.0,Law,Yes
+226,Mombasa,Lower,High School,59,47,43,41,85,69,50,63,54,57.0,Business,No
+227,Eldoret,Lower,None,69,48,61,61,76,47,43,51,51,56.0,Business,No
+228,Kisumu,Lower,None,84,77,40,82,81,43,62,75,79,69.0,Law,Yes
+229,Nairobi,Middle,University,75,88,88,64,43,48,86,57,60,68.0,Law,Yes
+230,Kisumu,Lower,University,73,80,88,88,51,83,72,54,40,70.0,Law,Yes
+231,Kisumu,Upper,University,70,57,86,40,40,70,78,85,89,68.0,Law,No
+232,Eldoret,Middle,University,54,74,67,65,50,77,44,60,41,59.0,Business,Yes
+233,Kisumu,Upper,University,60,65,62,59,71,87,74,67,47,66.0,Law,Yes
+234,Mombasa,Lower,University,52,70,83,67,59,44,75,51,88,65.0,Law,Yes
+235,Kisumu,Middle,None,76,43,75,44,65,54,57,51,65,59.0,Business,Yes
+236,Eldoret,Lower,High School,65,63,63,70,46,44,60,45,87,60.0,Law,Yes
+237,Nairobi,Lower,High School,45,89,76,43,68,62,67,41,69,62.0,Law,Yes
+238,Kisumu,Upper,University,86,66,55,71,61,89,54,72,57,68.0,Law,Yes
+239,Kisumu,Lower,High School,52,56,40,53,83,53,53,67,50,56.0,Business,No
+240,Nairobi,Middle,None,83,82,44,51,69,63,54,76,74,66.0,Law,Yes
+241,Nairobi,Middle,None,52,85,85,58,75,69,80,47,62,68.0,Law,Yes
+242,Mombasa,Middle,University,76,88,69,54,83,46,87,86,76,74.0,Medicine,Yes
+243,Nairobi,Upper,High School,48,67,62,62,80,77,54,71,65,65.0,Law,Yes
+244,Eldoret,Lower,None,47,50,72,55,47,53,41,77,61,56.0,Business,No
+245,Kisumu,Middle,High School,82,68,40,82,68,69,86,68,81,72.0,Medicine,No
+246,Eldoret,Middle,University,79,45,81,58,43,78,58,59,89,66.0,Law,Yes
+247,Kisumu,Middle,None,83,50,66,82,65,59,41,68,89,67.0,Law,Yes
+248,Mombasa,Upper,High School,41,78,77,54,86,83,62,82,72,71.0,Medicine,Yes
+249,Nairobi,Middle,High School,44,51,78,76,46,46,81,86,72,64.0,Law,No
+250,Nairobi,Middle,University,88,45,73,89,61,61,47,71,61,66.0,Law,No
+251,Mombasa,Lower,None,85,56,52,53,86,55,79,83,54,67.0,Law,Yes
+252,Mombasa,Upper,University,80,51,83,47,47,56,57,58,77,62.0,Law,No
+253,Nairobi,Middle,University,70,74,89,78,87,42,76,48,71,71.0,Medicine,No
+254,Kisumu,Middle,High School,51,86,58,58,42,73,41,52,84,61.0,Law,No
+255,Nairobi,Upper,High School,52,66,43,89,51,61,56,86,80,65.0,Law,No
+256,Eldoret,Middle,None,44,87,72,61,89,46,52,41,66,62.0,Law,Yes
+257,Eldoret,Lower,High School,84,84,46,59,63,62,50,82,80,68.0,Law,Yes
+258,Mombasa,Middle,None,50,47,42,89,53,46,82,58,44,57.0,Business,Yes
+259,Mombasa,Upper,High School,88,46,44,76,83,76,85,75,42,68.0,Law,No
+260,Nairobi,Middle,University,85,62,67,83,40,45,55,49,42,59.0,Business,Yes
+261,Eldoret,Middle,University,61,87,47,81,42,87,48,50,73,64.0,Law,Yes
+262,Kisumu,Upper,High School,42,57,60,50,58,60,53,63,63,56.0,Business,No
+263,Nairobi,Upper,None,73,54,71,63,48,86,49,61,68,64.0,Law,No
+264,Kisumu,Lower,None,64,88,59,56,56,41,82,80,85,68.0,Law,Yes
+265,Kisumu,Upper,University,48,70,76,58,78,54,52,78,54,63.0,Law,Yes
+266,Mombasa,Upper,None,87,69,89,41,59,46,67,70,72,67.0,Law,Yes
+267,Eldoret,Upper,High School,86,54,84,87,66,47,66,83,76,72.0,Medicine,No
+268,Mombasa,Middle,University,45,52,88,59,41,77,84,64,47,62.0,Law,Yes
+269,Eldoret,Upper,High School,59,75,53,77,55,72,41,72,73,64.0,Law,No
+270,Mombasa,Upper,High School,83,56,51,70,89,74,84,47,81,71.0,Medicine,Yes
+271,Eldoret,Lower,University,69,86,51,57,67,78,86,43,86,69.0,Law,No
+272,Eldoret,Lower,None,59,84,73,62,52,50,62,82,69,66.0,Law,Yes
+273,Kisumu,Upper,High School,57,73,76,40,88,81,60,73,72,69.0,Law,No
+274,Kisumu,Upper,University,51,86,63,42,51,76,62,51,50,59.0,Business,No
+275,Nairobi,Middle,None,80,78,62,64,85,53,53,87,82,72.0,Medicine,No
+276,Eldoret,Lower,High School,59,42,61,68,53,58,87,57,83,63.0,Law,No
+277,Eldoret,Lower,University,64,76,66,87,63,41,66,89,71,69.0,Law,No
+278,Kisumu,Upper,High School,50,81,57,78,46,88,75,66,67,68.0,Law,No
+279,Nairobi,Upper,University,47,77,66,66,56,41,74,61,60,61.0,Law,Yes
+280,Kisumu,Upper,High School,68,81,73,53,86,74,44,63,79,69.0,Law,No
+281,Mombasa,Upper,High School,61,50,82,74,40,85,53,42,59,61.0,Law,No
+282,Kisumu,Upper,None,69,67,54,87,53,72,66,40,65,64.0,Law,Yes
+283,Kisumu,Lower,None,42,72,44,63,88,89,54,61,64,64.0,Law,No
+284,Eldoret,Upper,High School,43,81,47,70,45,49,52,53,85,58.0,Business,Yes
+285,Nairobi,Middle,None,88,51,73,66,55,53,61,71,42,62.0,Law,No
+286,Kisumu,Upper,High School,81,51,79,80,47,60,44,49,48,60.0,Business,No
+287,Eldoret,Upper,None,79,73,80,41,61,61,75,89,59,69.0,Law,Yes
+288,Kisumu,Middle,University,61,73,83,40,47,84,73,47,54,62.0,Law,No
+289,Mombasa,Lower,University,83,86,64,48,59,72,61,72,55,67.0,Law,No
+290,Eldoret,Lower,University,73,47,47,61,62,76,48,82,44,60.0,Law,No
+291,Nairobi,Lower,None,71,84,68,74,61,71,46,45,53,64.0,Law,No
+292,Mombasa,Middle,High School,80,72,89,61,79,57,73,64,50,69.0,Law,Yes
+293,Nairobi,Upper,None,57,54,70,70,71,82,79,89,88,73.0,Medicine,Yes
+294,Eldoret,Middle,University,48,54,65,53,71,55,80,62,49,60.0,Business,Yes
+295,Nairobi,Upper,High School,54,83,68,41,79,66,66,76,69,67.0,Law,No
+296,Nairobi,Upper,University,49,53,64,78,43,52,87,61,73,62.0,Law,No
+297,Eldoret,Lower,University,74,78,72,40,88,64,82,50,73,69.0,Law,No
+298,Mombasa,Lower,High School,63,73,79,89,71,50,43,57,44,63.0,Law,No
+299,Kisumu,Middle,None,50,67,78,76,89,50,71,78,57,68.0,Law,No
+300,Kisumu,Upper,High School,52,84,88,78,62,83,68,41,81,71.0,Medicine,No
+301,Nairobi,Lower,None,47,87,46,76,42,82,49,69,83,65.0,Law,No
+302,Mombasa,Middle,University,55,80,66,44,57,74,50,78,72,64.0,Law,Yes
+303,Eldoret,Lower,University,59,68,66,81,71,56,57,78,77,68.0,Law,No
+304,Eldoret,Lower,None,68,74,70,43,78,53,66,80,57,65.0,Law,Yes
+305,Eldoret,Lower,High School,43,83,60,70,89,79,60,43,46,64.0,Law,No
+306,Nairobi,Lower,None,43,53,81,40,89,46,57,72,80,62.0,Law,Yes
+307,Mombasa,Upper,High School,56,55,86,70,43,71,67,61,56,63.0,Law,Yes
+308,Mombasa,Middle,None,40,45,80,66,54,61,48,65,48,56.0,Business,Yes
+309,Eldoret,Middle,None,49,68,70,49,47,69,79,76,82,65.0,Law,No
+310,Nairobi,Middle,University,87,85,81,82,85,69,51,64,42,72.0,Medicine,No
+311,Kisumu,Lower,University,82,62,59,64,78,42,67,58,56,63.0,Law,No
+312,Eldoret,Upper,University,87,52,78,82,61,49,61,81,88,71.0,Medicine,No
+313,Nairobi,Lower,University,52,51,62,49,55,41,44,74,51,53.0,Business,Yes
+314,Eldoret,Upper,High School,79,76,88,64,80,73,51,56,40,67.0,Law,Yes
+315,Kisumu,Lower,University,59,82,43,77,61,64,48,51,88,64.0,Law,Yes
+316,Nairobi,Lower,None,47,72,65,65,49,45,67,83,80,64.0,Law,No
+317,Mombasa,Lower,None,78,80,46,80,55,72,51,59,47,63.0,Law,No
+318,Kisumu,Lower,High School,87,54,56,73,83,80,42,83,83,71.0,Medicine,Yes
+319,Nairobi,Upper,None,86,64,71,80,64,82,72,85,68,75.0,Medicine,No
+320,Eldoret,Upper,High School,51,73,62,44,69,56,48,67,68,60.0,Business,No
+321,Mombasa,Middle,None,48,57,67,55,48,42,61,51,70,55.0,Business,No
+322,Kisumu,Middle,High School,57,53,87,81,49,80,45,77,57,65.0,Law,Yes
+323,Eldoret,Lower,None,60,67,79,58,66,57,66,74,64,66.0,Law,Yes
+324,Kisumu,Lower,University,58,55,47,59,61,76,86,52,40,59.0,Business,No
+325,Kisumu,Lower,High School,56,71,86,41,56,78,50,42,61,60.0,Law,No
+326,Mombasa,Lower,High School,66,82,67,52,49,71,85,70,51,66.0,Law,Yes
+327,Nairobi,Lower,High School,69,41,76,74,77,64,45,87,62,66.0,Law,Yes
+328,Eldoret,Lower,None,87,75,40,79,73,61,57,65,71,68.0,Law,No
+329,Eldoret,Lower,None,86,63,58,63,68,89,69,81,56,70.0,Medicine,Yes
+330,Nairobi,Lower,None,68,52,88,76,60,60,50,72,68,66.0,Law,Yes
+331,Kisumu,Upper,High School,48,46,68,81,78,70,56,71,71,65.0,Law,No
+332,Kisumu,Upper,None,63,61,83,53,62,41,68,78,43,61.0,Law,Yes
+333,Mombasa,Middle,High School,50,74,60,68,51,49,57,81,75,63.0,Law,No
+334,Nairobi,Lower,High School,45,51,87,80,56,47,51,89,42,61.0,Law,Yes
+335,Nairobi,Upper,None,59,81,74,55,73,68,43,74,55,65.0,Law,Yes
+336,Nairobi,Lower,High School,47,66,59,88,82,66,82,88,44,69.0,Law,No
+337,Nairobi,Upper,University,80,76,81,72,64,40,87,61,69,70.0,Medicine,Yes
+338,Kisumu,Upper,High School,78,60,51,67,82,51,43,81,66,64.0,Law,Yes
+339,Nairobi,Middle,None,59,64,47,67,82,49,75,81,41,63.0,Law,No
+340,Eldoret,Lower,University,89,84,64,81,82,49,87,75,69,76.0,Medicine,No
+341,Mombasa,Upper,University,67,45,54,84,65,42,47,44,78,58.0,Business,Yes
+342,Eldoret,Upper,None,56,66,45,73,73,46,72,83,65,64.0,Law,Yes
+343,Mombasa,Lower,University,53,55,41,80,84,56,86,82,44,65.0,Law,No
+344,Kisumu,Lower,High School,50,54,69,53,52,49,40,84,46,55.0,Business,No
+345,Mombasa,Middle,High School,68,58,46,73,62,73,68,59,47,62.0,Law,Yes
+346,Mombasa,Lower,None,57,56,41,49,44,60,54,81,65,56.0,Business,No
+347,Eldoret,Lower,High School,64,43,72,88,50,53,54,61,59,60.0,Law,No
+348,Eldoret,Lower,None,88,62,86,51,52,63,62,41,59,63.0,Law,No
+349,Eldoret,Lower,None,46,88,65,52,47,78,58,40,82,62.0,Law,Yes
+350,Eldoret,Middle,None,65,84,67,59,55,42,45,72,83,64.0,Law,Yes
+351,Kisumu,Lower,High School,54,41,45,77,67,56,77,48,80,61.0,Law,No
+352,Nairobi,Middle,None,53,61,52,47,82,89,52,45,42,58.0,Business,Yes
+353,Mombasa,Lower,High School,72,69,58,42,68,49,59,55,66,60.0,Business,No
+354,Eldoret,Lower,None,40,70,62,85,42,69,86,58,62,64.0,Law,No
+355,Nairobi,Upper,None,42,45,63,45,41,67,42,56,66,52.0,Business,Yes
+356,Eldoret,Upper,High School,84,47,51,79,66,81,79,49,60,66.0,Law,No
+357,Kisumu,Middle,None,56,64,65,66,81,87,87,48,67,69.0,Law,Yes
+358,Mombasa,Upper,High School,70,66,43,81,78,41,62,60,87,65.0,Law,No
+359,Mombasa,Lower,University,88,68,78,78,81,88,47,74,73,75.0,Medicine,Yes
+360,Mombasa,Lower,High School,41,70,88,61,75,72,87,41,80,68.0,Law,Yes
+361,Kisumu,Upper,University,55,67,54,82,40,81,46,67,70,62.0,Law,Yes
+362,Nairobi,Lower,University,40,66,50,57,74,79,59,84,66,64.0,Law,No
+363,Nairobi,Upper,High School,47,62,79,65,61,46,64,52,78,62.0,Law,No
+364,Mombasa,Upper,None,55,84,81,70,58,56,49,64,40,62.0,Law,No
+365,Mombasa,Lower,None,87,88,76,58,43,58,54,85,43,66.0,Law,No
+366,Kisumu,Lower,High School,82,42,51,53,54,77,59,72,56,61.0,Law,Yes
+367,Kisumu,Lower,University,42,66,64,81,52,59,45,60,51,58.0,Business,Yes
+368,Nairobi,Upper,University,43,41,69,71,82,82,43,47,51,59.0,Business,No
+369,Kisumu,Upper,High School,42,43,78,64,58,59,50,43,48,54.0,Business,No
+370,Kisumu,Middle,University,75,69,65,47,52,59,48,53,61,59.0,Business,Yes
+371,Nairobi,Lower,None,84,60,51,77,70,88,61,88,89,74.0,Medicine,No
+372,Kisumu,Upper,University,69,89,74,80,66,78,62,52,46,68.0,Law,No
+373,Nairobi,Middle,University,59,73,75,64,52,66,88,79,48,67.0,Law,Yes
+374,Eldoret,Lower,University,61,64,68,41,79,82,84,87,85,72.0,Medicine,Yes
+375,Mombasa,Upper,University,66,61,68,55,44,70,80,69,53,63.0,Law,No
+376,Mombasa,Lower,High School,65,68,44,70,79,41,85,41,52,61.0,Law,Yes
+377,Kisumu,Upper,University,77,66,78,42,59,51,83,74,44,64.0,Law,No
+378,Nairobi,Upper,None,87,59,59,83,83,83,79,84,81,78.0,Medicine,No
+379,Eldoret,Lower,None,61,88,48,87,47,48,72,54,58,63.0,Law,Yes
+380,Nairobi,Middle,High School,77,61,48,82,60,85,44,68,74,67.0,Law,No
+381,Nairobi,Lower,High School,41,67,47,71,54,49,48,89,68,59.0,Business,No
+382,Mombasa,Middle,High School,81,76,72,86,47,56,59,50,73,67.0,Law,Yes
+383,Nairobi,Middle,None,75,70,53,57,42,41,46,66,72,58.0,Business,No
+384,Nairobi,Upper,None,71,59,65,79,42,69,84,81,67,69.0,Law,No
+385,Kisumu,Middle,High School,44,63,41,49,73,84,76,47,61,60.0,Business,Yes
+386,Eldoret,Middle,University,50,61,47,62,76,55,72,63,41,59.0,Business,No
+387,Mombasa,Middle,University,77,58,60,51,59,67,73,87,67,67.0,Law,No
+388,Eldoret,Lower,High School,47,67,80,72,73,54,70,61,63,65.0,Law,Yes
+389,Eldoret,Upper,High School,42,55,52,64,40,59,46,73,59,54.0,Business,No
+390,Mombasa,Lower,University,80,67,62,54,44,60,52,81,61,62.0,Law,No
+391,Nairobi,Middle,None,46,56,70,53,58,45,51,89,52,58.0,Business,No
+392,Mombasa,Lower,University,52,67,58,71,69,76,80,65,61,67.0,Law,Yes
+393,Eldoret,Middle,High School,79,83,60,61,40,43,74,55,70,63.0,Law,Yes
+394,Eldoret,Upper,University,89,70,67,64,57,77,86,77,52,71.0,Medicine,Yes
+395,Mombasa,Upper,High School,43,75,49,77,54,86,54,67,77,65.0,Law,Yes
+396,Eldoret,Lower,High School,57,81,40,88,65,51,45,64,63,62.0,Law,No
+397,Nairobi,Middle,None,76,62,61,80,79,45,46,67,52,63.0,Law,Yes
+398,Kisumu,Upper,High School,76,87,44,78,55,70,71,84,89,73.0,Medicine,No
+399,Kisumu,Middle,High School,50,62,52,84,88,65,80,62,82,69.0,Law,No
+400,Nairobi,Lower,University,73,49,44,83,63,44,54,77,87,64.0,Law,No
+401,Mombasa,Upper,University,48,74,71,88,68,84,46,67,51,66.0,Law,No
+402,Nairobi,Middle,High School,42,68,63,40,54,83,69,45,79,60.0,Law,No
+403,Mombasa,Lower,None,58,89,40,87,76,68,42,89,46,66.0,Law,Yes
+404,Eldoret,Middle,University,82,65,68,51,50,59,61,64,69,63.0,Law,Yes
+405,Eldoret,Middle,High School,89,53,40,60,86,74,89,73,70,70.0,Medicine,No
+406,Mombasa,Middle,University,41,51,86,82,79,85,81,72,40,69.0,Law,Yes
+407,Eldoret,Upper,None,82,80,47,63,63,65,41,45,77,63.0,Law,Yes
+408,Mombasa,Upper,None,81,57,54,85,83,84,47,85,65,71.0,Medicine,Yes
+409,Mombasa,Upper,None,86,65,51,41,66,85,74,44,41,61.0,Law,Yes
+410,Mombasa,Middle,None,40,73,48,60,51,55,76,88,56,61.0,Law,Yes
+411,Kisumu,Lower,None,56,67,56,68,52,52,57,59,55,58.0,Business,Yes
+412,Kisumu,Middle,University,50,42,43,68,41,51,77,73,57,56.0,Business,No
+413,Nairobi,Middle,High School,68,87,86,70,60,69,41,52,52,65.0,Law,Yes
+414,Kisumu,Lower,None,49,50,86,50,58,70,74,49,48,59.0,Business,No
+415,Eldoret,Lower,University,65,61,75,44,59,70,68,74,67,65.0,Law,No
+416,Kisumu,Lower,None,67,83,76,83,89,68,44,64,52,70.0,Law,Yes
+417,Nairobi,Upper,University,69,63,71,85,78,69,52,43,56,65.0,Law,Yes
+418,Kisumu,Lower,None,47,52,61,79,57,81,67,66,41,61.0,Law,No
+419,Mombasa,Lower,None,48,77,72,49,75,55,66,47,51,60.0,Law,Yes
+420,Mombasa,Upper,None,59,52,86,44,86,52,78,87,52,66.0,Law,No
+421,Mombasa,Middle,High School,80,78,50,47,57,78,42,57,86,64.0,Law,Yes
+422,Nairobi,Middle,University,68,46,52,85,75,54,54,71,47,61.0,Law,No
+423,Kisumu,Lower,University,87,48,72,48,53,59,76,85,57,65.0,Law,Yes
+424,Eldoret,Upper,High School,41,77,62,46,59,82,60,84,49,62.0,Law,Yes
+425,Eldoret,Middle,None,46,83,65,45,78,80,61,65,41,63.0,Law,No
+426,Eldoret,Middle,University,68,82,42,47,56,43,46,83,44,57.0,Business,No
+427,Eldoret,Middle,None,77,55,43,52,82,58,69,56,86,64.0,Law,Yes
+428,Nairobi,Lower,None,69,89,77,50,67,47,67,79,71,68.0,Law,No
+429,Mombasa,Lower,None,77,41,62,70,62,57,50,85,83,65.0,Law,Yes
+430,Mombasa,Lower,University,78,83,46,77,85,83,59,62,58,70.0,Medicine,Yes
+431,Kisumu,Lower,High School,76,88,78,84,85,80,50,76,54,75.0,Medicine,No
+432,Eldoret,Upper,None,88,42,65,58,88,66,57,78,45,65.0,Law,No
+433,Mombasa,Lower,University,74,62,79,44,51,75,64,50,53,61.0,Law,Yes
+434,Nairobi,Lower,High School,78,74,68,69,80,69,80,40,59,69.0,Law,No
+435,Kisumu,Middle,High School,70,40,82,83,53,84,73,81,41,67.0,Law,Yes
+436,Eldoret,Upper,High School,55,83,88,78,76,67,45,79,55,70.0,Law,No
+437,Eldoret,Lower,High School,42,64,62,69,68,61,71,67,87,66.0,Law,Yes
+438,Eldoret,Upper,None,66,69,47,58,71,48,52,88,79,64.0,Law,No
+439,Kisumu,Lower,High School,82,84,81,40,46,73,76,71,47,67.0,Law,No
+440,Nairobi,Lower,High School,63,66,66,70,71,74,61,58,64,66.0,Law,No
+441,Mombasa,Lower,None,72,89,84,88,69,57,46,71,60,71.0,Medicine,No
+442,Nairobi,Upper,High School,65,67,49,47,55,77,43,51,69,58.0,Business,Yes
+443,Mombasa,Upper,High School,69,83,61,45,73,69,51,64,46,62.0,Law,No
+444,Mombasa,Lower,None,46,78,43,89,45,59,67,52,42,58.0,Business,Yes
+445,Eldoret,Lower,None,59,68,84,60,74,80,40,64,47,64.0,Law,No
+446,Kisumu,Lower,None,54,40,49,60,47,79,76,61,43,57.0,Business,Yes
+447,Mombasa,Upper,University,54,59,82,57,51,82,51,63,71,63.0,Law,No
+448,Mombasa,Lower,None,56,49,61,84,63,56,74,78,43,63.0,Law,No
+449,Eldoret,Lower,University,66,43,43,69,74,54,43,62,79,59.0,Business,Yes
+450,Kisumu,Lower,University,71,53,64,82,67,50,42,43,43,57.0,Business,Yes
+451,Mombasa,Lower,High School,54,64,66,89,85,68,82,73,49,70.0,Medicine,No
+452,Mombasa,Upper,None,65,87,40,61,49,46,54,64,74,60.0,Law,Yes
+453,Nairobi,Middle,University,58,40,46,89,46,57,61,83,65,61.0,Law,Yes
+454,Eldoret,Middle,High School,74,82,64,83,83,89,85,79,48,76.0,Medicine,No
+455,Mombasa,Lower,High School,76,51,88,65,62,80,48,79,67,68.0,Law,No
+456,Nairobi,Middle,University,66,70,59,76,46,75,67,71,54,65.0,Law,Yes
+457,Eldoret,Middle,High School,42,59,49,46,54,80,77,45,79,59.0,Business,Yes
+458,Kisumu,Middle,High School,55,64,85,65,80,67,89,59,67,70.0,Medicine,No
+459,Kisumu,Lower,High School,68,69,83,61,61,70,49,67,59,65.0,Law,No
+460,Nairobi,Lower,None,43,74,45,81,63,77,72,42,87,65.0,Law,No
+461,Eldoret,Lower,None,55,82,80,62,78,73,70,74,46,69.0,Law,No
+462,Kisumu,Upper,High School,50,45,84,86,47,52,47,46,51,56.0,Business,No
+463,Nairobi,Upper,None,81,47,89,52,81,40,40,67,86,65.0,Law,Yes
+464,Eldoret,Middle,University,82,71,46,62,70,55,52,72,65,64.0,Law,No
+465,Eldoret,Middle,High School,86,71,89,72,82,71,79,76,73,78.0,Medicine,No
+466,Nairobi,Middle,University,72,70,64,54,85,66,87,60,63,69.0,Law,No
+467,Mombasa,Middle,None,55,54,61,47,84,56,45,86,42,59.0,Business,No
+468,Eldoret,Middle,University,57,51,81,72,65,80,87,49,49,66.0,Law,No
+469,Kisumu,Upper,University,83,49,42,73,88,75,70,85,88,73.0,Medicine,No
+470,Mombasa,Upper,High School,88,44,44,43,66,84,78,61,70,64.0,Law,Yes
+471,Kisumu,Upper,University,85,76,54,72,69,80,82,55,53,70.0,Law,Yes
+472,Nairobi,Middle,University,71,52,77,70,89,66,52,46,65,65.0,Law,No
+473,Nairobi,Lower,High School,44,51,55,44,77,77,57,54,66,58.0,Business,No
+474,Nairobi,Middle,University,66,49,43,40,76,53,73,68,70,60.0,Business,No
+475,Mombasa,Middle,None,64,56,75,54,77,63,52,79,69,65.0,Law,Yes
+476,Nairobi,Lower,High School,64,54,88,60,47,85,74,48,63,65.0,Law,No
+477,Mombasa,Middle,University,71,68,54,75,59,60,76,67,61,66.0,Law,Yes
+478,Kisumu,Middle,None,52,53,77,47,84,76,68,77,79,68.0,Law,No
+479,Eldoret,Lower,High School,88,86,58,83,80,87,50,51,56,71.0,Medicine,No
+480,Kisumu,Upper,University,48,52,46,77,53,72,68,61,47,58.0,Business,No
+481,Kisumu,Middle,High School,57,70,66,57,50,86,43,78,73,64.0,Law,No
+482,Kisumu,Lower,University,68,54,65,78,77,84,64,75,79,72.0,Medicine,Yes
+483,Nairobi,Upper,High School,77,63,74,56,77,65,56,76,88,70.0,Medicine,Yes
+484,Eldoret,Middle,None,59,40,86,65,74,55,45,87,47,62.0,Law,No
+485,Mombasa,Upper,None,87,87,76,54,47,59,56,78,49,66.0,Law,No
+486,Eldoret,Upper,University,86,75,63,83,43,76,73,78,66,71.0,Medicine,Yes
+487,Kisumu,Upper,High School,51,61,70,57,41,43,78,84,82,63.0,Law,Yes
+488,Eldoret,Lower,None,74,69,74,89,52,81,60,41,64,67.0,Law,Yes
+489,Mombasa,Lower,High School,43,45,42,89,70,49,74,84,66,62.0,Law,Yes
+490,Kisumu,Middle,High School,46,64,58,40,89,44,83,58,73,62.0,Law,Yes
+491,Nairobi,Lower,University,49,81,54,46,63,51,68,43,77,59.0,Business,No
+492,Nairobi,Middle,None,74,84,59,40,42,71,55,63,54,60.0,Law,Yes
+493,Eldoret,Lower,University,73,89,53,68,45,48,83,45,68,64.0,Law,No
+494,Nairobi,Lower,None,78,63,82,81,46,52,46,89,58,66.0,Law,Yes
+495,Kisumu,Lower,High School,44,41,55,48,74,73,49,75,42,56.0,Business,Yes
+496,Mombasa,Upper,None,76,73,81,43,60,63,74,81,62,68.0,Law,Yes
+497,Nairobi,Middle,None,51,82,83,44,61,62,56,84,53,64.0,Law,Yes
+498,Mombasa,Lower,University,64,70,81,47,71,76,88,70,54,69.0,Law,No
+499,Eldoret,Middle,High School,82,57,89,80,49,49,60,40,62,63.0,Law,Yes
+500,Kisumu,Upper,High School,47,75,76,40,62,67,82,65,78,66.0,Law,Yes
+501,Nairobi,Middle,None,69,56,75,89,65,88,64,47,73,70.0,Law,Yes
+502,Nairobi,Lower,None,61,54,84,50,52,76,54,54,64,61.0,Law,No
+503,Kisumu,Lower,University,75,84,59,76,44,56,75,87,40,66.0,Law,No
+504,Eldoret,Middle,None,42,74,80,45,81,84,46,56,57,63.0,Law,Yes
+505,Kisumu,Middle,University,47,84,47,52,43,57,79,51,64,58.0,Business,Yes
+506,Eldoret,Lower,University,40,59,82,50,47,46,74,75,53,58.0,Business,Yes
+507,Nairobi,Middle,University,59,54,65,51,66,49,86,74,41,61.0,Law,Yes
+508,Kisumu,Middle,University,86,78,46,88,53,58,70,47,73,67.0,Law,No
+509,Eldoret,Lower,None,83,81,50,51,84,68,80,52,61,68.0,Law,Yes
+510,Kisumu,Lower,High School,82,77,67,71,53,80,47,86,89,72.0,Medicine,No
+511,Nairobi,Lower,High School,45,82,63,74,82,85,86,79,48,72.0,Medicine,Yes
+512,Eldoret,Upper,University,85,41,85,63,75,67,48,59,88,68.0,Law,Yes
+513,Nairobi,Upper,High School,43,72,40,66,45,69,74,78,84,63.0,Law,Yes
+514,Mombasa,Lower,None,54,76,86,65,54,76,60,63,89,69.0,Law,Yes
+515,Mombasa,Lower,High School,60,61,86,59,51,53,56,82,49,62.0,Law,Yes
+516,Nairobi,Upper,None,85,89,50,57,53,81,43,58,64,64.0,Law,No
+517,Nairobi,Lower,None,74,57,83,87,74,78,45,71,82,72.0,Medicine,Yes
+518,Nairobi,Upper,High School,43,66,62,52,43,53,68,79,76,60.0,Law,Yes
+519,Eldoret,Upper,None,42,63,79,78,86,83,80,56,88,73.0,Medicine,Yes
+520,Kisumu,Upper,University,69,85,72,54,75,47,52,42,76,64.0,Law,No
+521,Kisumu,Upper,None,59,76,52,68,51,83,62,82,53,65.0,Law,No
+522,Nairobi,Upper,University,67,61,64,60,82,89,72,61,48,67.0,Law,No
+523,Nairobi,Lower,High School,56,49,74,42,45,63,44,79,66,58.0,Business,No
+524,Mombasa,Lower,High School,88,80,72,60,46,57,76,64,88,70.0,Medicine,No
+525,Mombasa,Upper,University,46,82,40,47,58,42,66,87,41,57.0,Business,No
+526,Eldoret,Lower,University,43,86,49,72,46,83,75,88,55,66.0,Law,Yes
+527,Nairobi,Middle,High School,58,64,65,45,68,42,71,46,42,56.0,Business,No
+528,Nairobi,Lower,High School,57,53,74,71,51,84,48,55,78,63.0,Law,Yes
+529,Mombasa,Middle,None,84,61,64,83,52,60,71,50,63,65.0,Law,Yes
+530,Mombasa,Lower,High School,45,73,71,52,50,75,81,69,68,65.0,Law,Yes
+531,Nairobi,Upper,University,62,64,41,82,89,43,40,51,42,57.0,Business,No
+532,Mombasa,Lower,University,70,78,62,41,40,83,51,79,47,61.0,Law,Yes
+533,Kisumu,Lower,High School,50,78,40,77,75,50,75,85,49,64.0,Law,Yes
+534,Kisumu,Upper,None,58,82,53,68,71,72,58,70,61,66.0,Law,No
+535,Kisumu,Upper,None,42,51,52,72,62,89,57,78,50,61.0,Law,No
+536,Nairobi,Upper,University,63,52,89,83,51,42,51,69,80,64.0,Law,No
+537,Mombasa,Upper,None,56,77,41,86,86,71,85,44,59,67.0,Law,No
+538,Eldoret,Lower,University,41,46,88,75,86,60,58,58,73,65.0,Law,Yes
+539,Eldoret,Lower,High School,44,53,61,40,78,56,61,77,44,57.0,Business,No
+540,Nairobi,Lower,High School,48,79,51,86,83,79,62,89,76,73.0,Medicine,Yes
+541,Nairobi,Upper,University,62,66,70,67,66,71,62,56,55,64.0,Law,Yes
+542,Eldoret,Middle,University,49,47,43,57,75,58,50,78,57,57.0,Business,Yes
+543,Mombasa,Upper,High School,72,41,88,50,54,62,61,78,66,64.0,Law,Yes
+544,Nairobi,Middle,High School,66,65,78,79,66,89,86,46,60,71.0,Medicine,No
+545,Nairobi,Middle,University,57,69,76,59,89,82,64,55,67,69.0,Law,No
+546,Nairobi,Lower,None,76,45,89,42,64,87,87,60,57,67.0,Law,No
+547,Mombasa,Upper,University,59,72,63,89,77,40,87,86,67,71.0,Medicine,Yes
+548,Eldoret,Upper,High School,61,68,64,52,82,50,47,85,56,63.0,Law,No
+549,Nairobi,Middle,University,54,69,53,75,50,82,47,58,58,61.0,Law,Yes
+550,Kisumu,Upper,University,81,43,54,47,46,57,83,81,47,60.0,Business,No
+551,Kisumu,Upper,High School,73,45,83,54,49,61,85,76,60,65.0,Law,Yes
+552,Nairobi,Middle,University,49,58,44,84,82,77,42,51,47,59.0,Business,Yes
+553,Nairobi,Lower,None,52,80,62,67,64,67,88,68,70,69.0,Law,Yes
+554,Mombasa,Lower,University,70,85,54,47,55,48,73,79,85,66.0,Law,No
+555,Nairobi,Lower,None,56,54,68,58,89,40,43,50,60,58.0,Business,No
+556,Nairobi,Middle,None,73,53,80,63,53,88,57,70,84,69.0,Law,Yes
+557,Nairobi,Lower,University,61,53,80,47,67,49,67,43,48,57.0,Business,Yes
+558,Nairobi,Lower,High School,62,42,54,42,55,64,67,53,71,57.0,Business,No
+559,Kisumu,Middle,None,60,55,67,89,60,51,47,87,47,63.0,Law,Yes
+560,Eldoret,Upper,None,45,89,83,61,88,67,61,58,87,71.0,Medicine,Yes
+561,Nairobi,Upper,High School,60,40,72,54,67,83,49,68,88,65.0,Law,No
+562,Eldoret,Lower,High School,66,55,50,54,47,64,45,73,84,60.0,Business,Yes
+563,Nairobi,Middle,University,68,58,52,40,88,59,62,44,55,58.0,Business,No
+564,Mombasa,Upper,None,42,83,82,54,69,49,42,43,75,60.0,Business,No
+565,Mombasa,Upper,None,62,75,42,62,74,48,43,45,47,55.0,Business,No
+566,Eldoret,Lower,High School,46,67,58,70,66,54,81,71,45,62.0,Law,Yes
+567,Kisumu,Lower,None,43,51,72,78,66,79,66,53,61,63.0,Law,Yes
+568,Kisumu,Middle,None,65,40,84,47,51,65,74,68,61,62.0,Law,Yes
+569,Mombasa,Lower,University,82,88,61,85,83,87,87,73,82,81.0,Engineering,No
+570,Kisumu,Upper,University,53,59,88,72,61,84,72,65,88,71.0,Medicine,No
+571,Mombasa,Middle,High School,50,41,86,61,79,56,60,49,68,61.0,Law,No
+572,Eldoret,Upper,High School,83,45,50,45,61,85,86,84,81,69.0,Law,Yes
+573,Nairobi,Middle,None,51,49,66,67,61,60,89,71,62,64.0,Law,No
+574,Kisumu,Lower,High School,87,51,77,71,72,82,85,70,67,74.0,Medicine,No
+575,Eldoret,Upper,University,41,41,60,78,65,79,57,63,41,58.0,Business,No
+576,Eldoret,Middle,University,76,65,61,70,54,86,79,44,51,65.0,Law,Yes
+577,Nairobi,Middle,None,88,43,59,58,49,73,61,42,43,57.0,Business,Yes
+578,Mombasa,Upper,University,68,41,64,72,82,77,85,81,46,68.0,Law,Yes
+579,Eldoret,Middle,University,46,81,66,64,89,47,52,48,84,64.0,Law,Yes
+580,Eldoret,Lower,None,69,77,42,71,58,59,85,58,52,63.0,Law,No
+581,Nairobi,Upper,None,59,43,68,73,87,72,51,52,56,62.0,Law,Yes
+582,Nairobi,Upper,University,83,46,67,59,78,72,56,60,78,67.0,Law,Yes
+583,Nairobi,Upper,None,83,71,51,47,76,58,85,60,66,66.0,Law,No
+584,Nairobi,Middle,None,48,69,78,79,64,71,40,85,44,64.0,Law,No
+585,Kisumu,Upper,None,64,68,67,85,40,70,75,65,81,68.0,Law,Yes
+586,Nairobi,Lower,University,46,56,70,87,73,44,82,79,70,67.0,Law,No
+587,Eldoret,Middle,University,44,52,56,42,73,85,44,51,80,59.0,Business,No
+588,Eldoret,Middle,University,88,73,44,55,46,72,53,44,41,57.0,Business,Yes
+589,Kisumu,Middle,None,53,54,79,54,44,72,82,89,57,65.0,Law,No
+590,Mombasa,Upper,None,81,76,81,58,60,51,81,71,83,71.0,Medicine,No
+591,Mombasa,Upper,High School,47,67,68,82,44,69,67,78,41,63.0,Law,No
+592,Mombasa,Lower,University,50,88,88,56,59,64,49,71,67,66.0,Law,No
+593,Nairobi,Upper,High School,75,79,49,62,87,59,82,78,82,73.0,Medicine,Yes
+594,Nairobi,Lower,University,51,47,42,83,75,69,62,71,63,63.0,Law,No
+595,Eldoret,Upper,High School,45,72,50,79,57,57,66,57,46,59.0,Business,No
+596,Mombasa,Upper,None,44,77,64,61,80,78,64,52,56,64.0,Law,Yes
+597,Kisumu,Middle,University,51,63,45,75,63,76,56,85,72,65.0,Law,Yes
+598,Eldoret,Lower,High School,83,80,83,52,74,69,87,87,88,78.0,Medicine,No
+599,Nairobi,Upper,University,49,66,49,85,86,44,70,44,42,59.0,Business,Yes
+600,Nairobi,Lower,High School,64,85,62,70,83,70,89,74,68,74.0,Medicine,Yes
+601,Kisumu,Upper,None,81,84,89,69,43,74,43,67,74,69.0,Law,No
+602,Eldoret,Middle,University,41,41,76,44,85,49,81,85,66,63.0,Law,Yes
+603,Eldoret,Middle,University,84,42,41,79,68,49,53,52,44,57.0,Business,Yes
+604,Mombasa,Upper,University,79,81,71,41,63,41,49,72,88,65.0,Law,Yes
+605,Nairobi,Lower,University,63,53,78,87,44,75,87,42,44,64.0,Law,No
+606,Nairobi,Middle,University,57,61,56,71,63,56,82,65,86,66.0,Law,Yes
+607,Kisumu,Middle,University,40,44,72,57,68,87,69,56,53,61.0,Law,Yes
+608,Kisumu,Middle,None,54,61,62,83,79,59,40,84,67,65.0,Law,No
+609,Nairobi,Upper,High School,52,79,64,79,57,63,68,72,68,67.0,Law,Yes
+610,Eldoret,Middle,High School,73,70,51,66,53,77,60,42,43,59.0,Business,No
+611,Nairobi,Middle,University,44,62,59,62,45,78,41,42,81,57.0,Business,Yes
+612,Mombasa,Lower,High School,88,89,80,42,87,43,81,65,58,70.0,Medicine,Yes
+613,Nairobi,Lower,High School,85,88,74,81,54,88,61,42,89,74.0,Medicine,No
+614,Nairobi,Lower,High School,62,62,68,74,52,44,76,85,85,68.0,Law,No
+615,Eldoret,Middle,None,49,53,70,52,55,46,68,66,67,58.0,Business,No
+616,Mombasa,Lower,High School,56,40,51,60,72,56,88,77,65,63.0,Law,Yes
+617,Mombasa,Lower,None,83,63,87,48,65,73,50,63,41,64.0,Law,No
+618,Kisumu,Upper,University,54,85,54,74,47,43,58,78,51,60.0,Law,Yes
+619,Mombasa,Upper,None,54,78,56,54,76,48,75,41,45,59.0,Business,Yes
+620,Mombasa,Middle,None,81,46,80,84,67,49,46,40,83,64.0,Law,Yes
+621,Mombasa,Middle,None,69,75,46,51,53,53,71,60,68,61.0,Law,Yes
+622,Eldoret,Middle,High School,86,73,49,68,84,42,68,41,86,66.0,Law,Yes
+623,Eldoret,Lower,High School,89,70,79,68,67,83,54,88,79,75.0,Medicine,No
+624,Mombasa,Lower,High School,56,51,59,68,50,78,51,40,65,58.0,Business,No
+625,Kisumu,Lower,University,70,71,54,68,59,77,68,64,82,68.0,Law,No
+626,Kisumu,Lower,University,46,89,70,52,70,73,61,42,55,62.0,Law,Yes
+627,Nairobi,Lower,University,70,69,72,82,54,46,79,44,43,62.0,Law,Yes
+628,Eldoret,Lower,High School,68,67,78,71,77,71,55,63,45,66.0,Law,No
+629,Nairobi,Lower,High School,88,44,78,67,40,62,70,60,41,61.0,Law,No
+630,Kisumu,Middle,None,76,81,74,78,42,51,74,84,79,71.0,Medicine,No
+631,Kisumu,Middle,University,76,46,87,64,47,73,88,87,51,69.0,Law,Yes
+632,Nairobi,Upper,None,41,81,67,50,48,74,58,83,54,62.0,Law,Yes
+633,Nairobi,Middle,None,80,86,70,57,43,77,73,62,43,66.0,Law,Yes
+634,Nairobi,Middle,High School,87,68,79,69,73,72,58,67,78,72.0,Medicine,No
+635,Kisumu,Middle,None,42,79,40,50,82,81,54,70,63,62.0,Law,Yes
+636,Nairobi,Middle,University,81,63,85,67,51,75,50,65,54,66.0,Law,Yes
+637,Nairobi,Middle,None,61,51,82,41,40,73,79,76,44,61.0,Law,Yes
+638,Mombasa,Middle,University,65,65,72,46,81,49,40,76,41,59.0,Business,Yes
+639,Eldoret,Lower,None,71,54,88,69,49,47,66,49,78,63.0,Law,No
+640,Nairobi,Upper,None,65,42,82,80,61,56,43,71,57,62.0,Law,No
+641,Mombasa,Upper,University,71,69,83,48,66,79,82,45,72,68.0,Law,Yes
+642,Eldoret,Upper,University,58,80,84,68,48,74,49,78,43,65.0,Law,Yes
+643,Eldoret,Lower,None,44,56,42,65,76,81,84,45,79,64.0,Law,Yes
+644,Eldoret,Lower,None,59,70,82,67,69,54,88,70,80,71.0,Medicine,Yes
+645,Eldoret,Middle,University,46,58,86,71,85,66,67,47,45,63.0,Law,Yes
+646,Kisumu,Upper,None,81,89,54,67,67,46,49,54,43,61.0,Law,No
+647,Mombasa,Middle,University,47,69,57,48,42,49,53,58,43,52.0,Business,Yes
+648,Eldoret,Upper,University,78,69,56,88,51,54,81,62,64,67.0,Law,Yes
+649,Eldoret,Lower,None,66,56,62,69,87,69,58,57,54,64.0,Law,Yes
+650,Mombasa,Middle,High School,88,74,53,77,62,84,72,82,80,75.0,Medicine,Yes
+651,Eldoret,Lower,None,78,72,81,64,66,72,69,75,70,72.0,Medicine,Yes
+652,Kisumu,Upper,None,42,65,78,59,49,79,83,56,68,64.0,Law,Yes
+653,Nairobi,Lower,University,58,82,65,61,61,77,79,71,71,69.0,Law,Yes
+654,Eldoret,Middle,None,69,72,88,44,66,63,45,79,50,64.0,Law,Yes
+655,Mombasa,Middle,University,81,78,70,44,68,81,48,58,79,67.0,Law,Yes
+656,Kisumu,Middle,None,89,56,87,57,48,40,44,61,69,61.0,Law,Yes
+657,Mombasa,Middle,University,82,41,62,84,75,70,76,63,77,70.0,Medicine,No
+658,Kisumu,Lower,None,84,81,85,50,63,45,49,77,87,69.0,Law,Yes
+659,Nairobi,Lower,High School,48,58,42,46,87,87,54,85,56,63.0,Law,Yes
+660,Nairobi,Lower,High School,82,84,44,77,82,57,51,51,77,67.0,Law,No
+661,Nairobi,Middle,None,43,87,47,89,41,72,59,52,65,62.0,Law,No
+662,Mombasa,Upper,High School,79,56,74,82,56,63,74,41,59,65.0,Law,Yes
+663,Mombasa,Upper,High School,56,55,47,76,72,60,49,73,89,64.0,Law,Yes
+664,Kisumu,Lower,None,79,54,81,68,89,81,75,42,52,69.0,Law,No
+665,Nairobi,Lower,None,71,83,81,52,70,61,54,53,45,63.0,Law,No
+666,Eldoret,Middle,High School,82,58,77,60,87,82,70,64,89,74.0,Medicine,Yes
+667,Eldoret,Middle,University,76,60,74,80,54,62,70,54,82,68.0,Law,Yes
+668,Eldoret,Middle,None,55,56,56,47,53,57,52,58,88,58.0,Business,No
+669,Eldoret,Middle,None,63,40,71,77,62,58,45,44,78,60.0,Business,Yes
+670,Nairobi,Upper,None,49,83,76,89,58,54,51,87,78,69.0,Law,No
+671,Eldoret,Middle,High School,63,57,61,47,54,53,43,85,86,61.0,Law,Yes
+672,Nairobi,Middle,High School,87,46,68,70,51,46,50,81,46,61.0,Law,Yes
+673,Mombasa,Middle,University,56,52,58,59,43,50,58,53,67,55.0,Business,Yes
+674,Mombasa,Upper,High School,62,78,51,70,42,45,51,58,54,57.0,Business,Yes
+675,Mombasa,Middle,University,86,73,75,78,41,73,70,89,67,72.0,Medicine,No
+676,Eldoret,Middle,High School,87,83,87,80,59,53,84,67,86,76.0,Medicine,Yes
+677,Mombasa,Lower,High School,46,84,84,70,74,71,76,69,61,71.0,Medicine,Yes
+678,Eldoret,Lower,University,60,43,74,61,50,74,40,67,64,59.0,Business,No
+679,Kisumu,Lower,None,53,81,66,82,78,67,66,41,63,66.0,Law,Yes
+680,Nairobi,Middle,None,75,77,89,79,67,51,61,54,58,68.0,Law,Yes
+681,Kisumu,Upper,None,58,78,50,48,63,64,62,71,50,60.0,Law,No
+682,Mombasa,Lower,University,51,85,85,64,81,74,57,66,54,69.0,Law,No
+683,Kisumu,Middle,None,63,48,57,61,54,79,87,43,43,59.0,Business,Yes
+684,Kisumu,Upper,None,82,64,41,53,79,70,83,47,79,66.0,Law,No
+685,Eldoret,Middle,None,67,69,43,62,55,80,49,74,57,62.0,Law,No
+686,Eldoret,Lower,University,88,75,43,60,45,89,68,53,45,63.0,Law,No
+687,Kisumu,Upper,University,81,64,57,65,83,69,74,67,78,71.0,Medicine,No
+688,Eldoret,Upper,None,52,57,62,42,66,66,51,58,55,57.0,Business,No
+689,Eldoret,Middle,None,89,66,82,45,40,87,74,72,76,70.0,Medicine,No
+690,Nairobi,Middle,University,67,57,50,52,87,70,76,88,82,70.0,Law,No
+691,Mombasa,Lower,University,45,86,56,67,65,62,68,81,53,65.0,Law,No
+692,Eldoret,Middle,University,70,71,74,89,65,78,68,69,62,72.0,Medicine,Yes
+693,Eldoret,Middle,High School,84,72,67,51,70,76,50,73,59,67.0,Law,Yes
+694,Eldoret,Upper,University,65,89,61,44,52,80,82,63,56,66.0,Law,Yes
+695,Kisumu,Middle,High School,71,42,83,54,45,43,89,68,56,61.0,Law,No
+696,Nairobi,Upper,University,44,46,60,66,71,78,50,68,45,59.0,Business,No
+697,Eldoret,Middle,High School,78,55,84,48,87,40,49,73,74,65.0,Law,No
+698,Nairobi,Middle,None,41,48,78,76,70,88,57,70,70,66.0,Law,No
+699,Kisumu,Upper,None,61,54,64,69,66,50,60,78,83,65.0,Law,No
+700,Nairobi,Lower,University,58,81,86,76,51,83,79,48,61,69.0,Law,Yes
+701,Eldoret,Middle,High School,44,88,54,86,41,67,81,60,41,62.0,Law,Yes
+702,Nairobi,Middle,High School,69,68,65,87,74,52,79,40,80,68.0,Law,No
+703,Kisumu,Upper,None,76,80,56,77,60,83,78,52,79,71.0,Medicine,No
+704,Nairobi,Middle,University,65,78,68,50,57,51,45,42,81,60.0,Business,Yes
+705,Nairobi,Lower,University,60,82,58,73,41,44,72,58,76,63.0,Law,Yes
+706,Kisumu,Upper,High School,83,52,60,85,56,74,61,48,49,63.0,Law,No
+707,Kisumu,Lower,University,68,75,55,83,44,79,78,84,68,70.0,Medicine,Yes
+708,Nairobi,Upper,High School,53,40,71,49,77,49,80,52,42,57.0,Business,Yes
+709,Eldoret,Upper,High School,46,53,79,79,72,49,71,67,85,67.0,Law,No
+710,Kisumu,Middle,None,89,79,80,72,45,52,87,78,52,70.0,Medicine,No
+711,Eldoret,Upper,None,88,70,68,61,76,40,48,57,51,62.0,Law,Yes
+712,Nairobi,Middle,University,89,86,69,49,85,80,49,74,66,72.0,Medicine,No
+713,Nairobi,Lower,None,50,82,84,88,72,57,72,76,74,73.0,Medicine,No
+714,Kisumu,Lower,High School,60,75,68,53,64,44,56,84,53,62.0,Law,Yes
+715,Eldoret,Upper,None,55,77,70,53,59,43,86,40,66,61.0,Law,Yes
+716,Kisumu,Lower,University,80,43,51,70,75,48,66,70,55,62.0,Law,Yes
+717,Nairobi,Middle,High School,67,74,54,88,87,65,79,43,69,70.0,Law,Yes
+718,Mombasa,Middle,None,79,87,69,78,73,77,66,55,71,73.0,Medicine,Yes
+719,Eldoret,Middle,High School,82,83,70,83,55,78,74,53,57,71.0,Medicine,No
+720,Mombasa,Upper,None,46,88,40,88,76,79,75,47,69,68.0,Law,Yes
+721,Mombasa,Lower,University,84,54,58,54,59,54,63,54,66,61.0,Law,Yes
+722,Mombasa,Lower,University,72,44,77,79,50,48,51,78,41,60.0,Law,Yes
+723,Eldoret,Lower,High School,69,52,75,52,64,47,62,60,84,63.0,Law,Yes
+724,Nairobi,Middle,None,47,66,86,72,88,69,65,44,62,67.0,Law,Yes
+725,Kisumu,Lower,University,42,52,49,87,82,69,61,88,64,66.0,Law,Yes
+726,Nairobi,Middle,None,52,83,67,68,74,78,87,40,48,66.0,Law,Yes
+727,Kisumu,Upper,None,78,67,62,50,88,55,70,42,57,63.0,Law,No
+728,Nairobi,Upper,None,42,47,67,53,84,56,76,60,40,58.0,Business,Yes
+729,Nairobi,Middle,High School,49,82,69,70,63,66,85,51,83,69.0,Law,Yes
+730,Mombasa,Middle,High School,69,73,66,50,44,66,72,45,64,61.0,Law,No
+731,Nairobi,Upper,University,75,44,60,78,72,46,82,66,69,66.0,Law,Yes
+732,Eldoret,Middle,University,50,67,73,85,60,86,41,59,70,66.0,Law,No
+733,Mombasa,Upper,University,70,62,42,50,41,78,76,79,49,61.0,Law,Yes
+734,Nairobi,Middle,None,70,60,62,54,82,68,81,71,58,67.0,Law,No
+735,Mombasa,Upper,High School,79,57,85,46,55,87,74,68,52,67.0,Law,Yes
+736,Eldoret,Upper,University,68,66,55,80,54,62,86,74,42,65.0,Law,No
+737,Nairobi,Middle,None,72,62,74,44,69,66,66,79,77,68.0,Law,No
+738,Eldoret,Middle,None,59,82,85,64,73,62,46,64,89,69.0,Law,Yes
+739,Nairobi,Lower,High School,85,83,83,89,61,59,40,45,75,69.0,Law,No
+740,Nairobi,Lower,None,76,87,74,85,41,52,74,71,69,70.0,Law,Yes
+741,Mombasa,Upper,High School,74,48,40,63,53,54,47,48,51,53.0,Business,No
+742,Mombasa,Upper,University,42,50,52,47,65,46,83,87,71,60.0,Law,Yes
+743,Mombasa,Upper,University,70,74,73,84,70,85,48,75,75,73.0,Medicine,No
+744,Eldoret,Lower,None,64,68,57,85,40,80,66,64,58,65.0,Law,Yes
+745,Mombasa,Middle,University,60,77,54,88,87,77,79,83,76,76.0,Medicine,No
+746,Mombasa,Upper,High School,63,86,42,58,59,86,48,40,84,63.0,Law,No
+747,Nairobi,Upper,University,56,79,55,88,48,73,76,86,87,72.0,Medicine,Yes
+748,Kisumu,Middle,University,55,83,69,50,50,69,73,67,83,67.0,Law,No
+749,Eldoret,Lower,None,66,75,75,83,75,57,48,53,83,68.0,Law,No
+750,Nairobi,Middle,University,74,64,79,55,65,50,59,58,42,61.0,Law,Yes
+751,Nairobi,Middle,None,76,60,63,64,87,47,43,56,41,60.0,Business,Yes
+752,Nairobi,Lower,University,61,51,70,82,43,66,66,82,51,64.0,Law,No
+753,Kisumu,Lower,None,88,87,46,53,63,67,87,55,42,65.0,Law,No
+754,Mombasa,Upper,High School,46,49,57,41,49,65,58,58,63,54.0,Business,Yes
+755,Mombasa,Middle,None,83,84,75,47,86,64,72,65,82,73.0,Medicine,Yes
+756,Mombasa,Lower,University,76,73,56,66,55,54,63,50,88,65.0,Law,No
+757,Eldoret,Middle,University,69,43,87,54,85,61,47,58,78,65.0,Law,Yes
+758,Mombasa,Upper,University,65,80,56,42,64,60,47,51,61,58.0,Business,Yes
+759,Kisumu,Lower,University,64,78,85,68,84,88,76,53,78,75.0,Medicine,No
+760,Kisumu,Upper,None,69,55,50,50,57,45,87,63,51,59.0,Business,Yes
+761,Mombasa,Lower,None,82,66,71,60,56,53,68,70,79,67.0,Law,Yes
+762,Mombasa,Middle,None,65,81,54,72,71,68,46,84,69,68.0,Law,No
+763,Nairobi,Middle,University,55,57,65,75,81,58,86,82,71,70.0,Medicine,No
+764,Nairobi,Upper,High School,66,63,40,80,57,77,71,69,64,65.0,Law,Yes
+765,Nairobi,Middle,High School,50,82,77,58,84,69,64,77,84,72.0,Medicine,Yes
+766,Eldoret,Upper,High School,52,58,54,53,82,55,80,51,56,60.0,Law,No
+767,Nairobi,Upper,High School,70,62,58,50,66,56,46,45,60,57.0,Business,No
+768,Nairobi,Middle,High School,64,41,65,46,69,85,76,82,43,63.0,Law,Yes
+769,Mombasa,Lower,University,66,78,70,72,48,79,61,57,53,65.0,Law,No
+770,Mombasa,Upper,High School,63,80,80,73,43,61,44,42,62,61.0,Law,No
+771,Mombasa,Upper,University,49,48,76,85,88,41,88,86,69,70.0,Medicine,Yes
+772,Mombasa,Middle,University,89,55,46,46,51,77,58,66,72,62.0,Law,Yes
+773,Mombasa,Middle,None,83,85,68,65,40,61,70,60,85,69.0,Law,Yes
+774,Kisumu,Middle,High School,89,82,58,83,56,76,64,89,49,72.0,Medicine,Yes
+775,Kisumu,Middle,University,69,86,63,46,40,82,57,73,83,67.0,Law,Yes
+776,Eldoret,Middle,High School,62,60,83,52,68,58,89,87,42,67.0,Law,Yes
+777,Kisumu,Middle,University,61,73,67,81,51,67,89,75,45,68.0,Law,No
+778,Kisumu,Middle,University,47,53,79,59,62,45,67,62,58,59.0,Business,Yes
+779,Eldoret,Upper,None,72,48,44,74,40,77,48,74,69,61.0,Law,No
+780,Kisumu,Upper,None,50,67,87,66,72,54,81,48,89,68.0,Law,Yes
+781,Nairobi,Upper,None,88,54,52,40,89,43,76,77,78,66.0,Law,Yes
+782,Nairobi,Middle,High School,69,61,41,88,70,71,64,61,82,67.0,Law,No
+783,Kisumu,Middle,University,42,72,51,83,48,76,57,71,42,60.0,Law,Yes
+784,Kisumu,Lower,High School,86,71,61,81,63,42,48,77,49,64.0,Law,Yes
+785,Mombasa,Lower,High School,82,49,77,65,45,85,66,85,47,67.0,Law,Yes
+786,Eldoret,Upper,None,79,61,74,75,73,45,60,85,86,71.0,Medicine,Yes
+787,Kisumu,Middle,High School,70,71,77,74,72,46,61,44,87,67.0,Law,No
+788,Kisumu,Middle,University,68,45,80,74,62,69,89,50,89,70.0,Law,Yes
+789,Eldoret,Lower,High School,67,75,79,49,88,73,76,87,58,72.0,Medicine,Yes
+790,Mombasa,Middle,None,52,51,89,77,85,83,42,48,50,64.0,Law,Yes
+791,Eldoret,Lower,None,60,56,76,82,82,69,40,44,73,65.0,Law,No
+792,Eldoret,Upper,University,81,51,46,54,69,79,41,74,67,62.0,Law,Yes
+793,Mombasa,Lower,None,77,50,78,44,83,73,77,81,41,67.0,Law,Yes
+794,Nairobi,Upper,High School,55,82,89,56,84,68,54,50,88,70.0,Law,No
+795,Eldoret,Lower,None,67,62,40,88,78,75,68,77,85,71.0,Medicine,No
+796,Kisumu,Lower,High School,58,52,66,85,81,81,49,58,49,64.0,Law,No
+797,Mombasa,Middle,None,40,66,52,46,79,81,80,70,69,65.0,Law,No
+798,Kisumu,Middle,None,73,41,60,53,67,78,82,70,42,63.0,Law,Yes
+799,Nairobi,Lower,University,73,52,66,79,42,65,58,76,61,64.0,Law,No
+800,Kisumu,Middle,None,79,53,70,70,58,72,58,77,71,68.0,Law,Yes
+801,Mombasa,Middle,High School,40,60,77,60,76,87,88,82,73,71.0,Medicine,No
+802,Mombasa,Middle,None,78,66,69,48,56,80,75,63,64,67.0,Law,No
+803,Mombasa,Upper,High School,85,83,88,88,60,75,81,69,50,75.0,Medicine,No
+804,Eldoret,Lower,None,48,55,61,67,52,82,74,83,45,63.0,Law,No
+805,Nairobi,Middle,High School,76,58,85,43,69,65,88,48,72,67.0,Law,Yes
+806,Nairobi,Upper,University,42,54,60,58,73,76,65,77,84,65.0,Law,No
+807,Nairobi,Upper,High School,68,42,60,72,49,50,76,80,65,62.0,Law,No
+808,Nairobi,Lower,None,50,81,72,79,66,58,50,64,79,67.0,Law,No
+809,Nairobi,Lower,High School,50,70,60,67,77,89,66,44,63,65.0,Law,Yes
+810,Nairobi,Lower,University,52,77,45,70,82,64,74,68,84,68.0,Law,No
+811,Eldoret,Lower,None,65,40,53,49,41,75,87,44,75,59.0,Business,Yes
+812,Nairobi,Upper,University,84,85,50,75,61,53,47,52,78,65.0,Law,Yes
+813,Kisumu,Lower,None,51,69,54,59,50,87,57,61,52,60.0,Law,No
+814,Mombasa,Lower,None,79,82,70,70,72,59,78,77,56,71.0,Medicine,No
+815,Eldoret,Lower,None,56,80,58,69,76,40,48,54,81,62.0,Law,No
+816,Mombasa,Lower,High School,88,61,59,83,74,85,76,68,43,71.0,Medicine,Yes
+817,Nairobi,Middle,None,50,61,65,65,45,61,40,83,65,59.0,Business,No
+818,Mombasa,Upper,University,81,63,51,69,73,79,40,69,52,64.0,Law,Yes
+819,Eldoret,Lower,High School,64,56,87,45,81,74,59,71,74,68.0,Law,Yes
+820,Eldoret,Lower,High School,60,45,41,55,70,61,74,79,49,59.0,Business,Yes
+821,Eldoret,Upper,None,70,80,65,54,86,75,79,66,89,74.0,Medicine,Yes
+822,Mombasa,Middle,None,49,87,41,41,40,68,44,56,88,57.0,Business,No
+823,Mombasa,Upper,None,40,51,66,86,65,55,85,52,41,60.0,Law,No
+824,Kisumu,Lower,University,71,59,67,40,71,77,56,79,60,64.0,Law,Yes
+825,Nairobi,Middle,University,57,82,81,89,43,78,40,60,42,64.0,Law,Yes
+826,Kisumu,Upper,None,42,84,44,44,85,87,55,82,80,67.0,Law,No
+827,Kisumu,Lower,High School,84,69,59,59,87,70,48,57,73,67.0,Law,Yes
+828,Kisumu,Lower,High School,49,84,52,73,72,62,51,86,71,67.0,Law,Yes
+829,Mombasa,Upper,University,84,65,74,68,53,65,52,73,45,64.0,Law,No
+830,Mombasa,Upper,None,88,86,62,61,69,74,77,53,80,72.0,Medicine,Yes
+831,Nairobi,Middle,University,58,44,79,71,48,74,52,63,71,62.0,Law,No
+832,Eldoret,Middle,High School,83,44,71,76,45,81,42,75,89,67.0,Law,No
+833,Kisumu,Middle,None,50,47,84,52,83,81,50,78,68,66.0,Law,No
+834,Nairobi,Upper,High School,80,57,42,87,52,74,42,70,42,61.0,Law,Yes
+835,Nairobi,Upper,University,62,81,58,81,58,65,68,44,44,62.0,Law,Yes
+836,Eldoret,Middle,None,60,65,53,84,74,64,76,82,80,71.0,Medicine,No
+837,Nairobi,Lower,None,61,52,65,66,43,88,70,71,50,63.0,Law,No
+838,Eldoret,Upper,High School,78,58,74,84,77,66,49,50,77,68.0,Law,Yes
+839,Kisumu,Lower,None,87,67,75,65,54,40,43,52,49,59.0,Business,No
+840,Kisumu,Middle,None,87,69,52,58,56,53,81,89,79,69.0,Law,Yes
+841,Nairobi,Lower,None,79,55,74,68,64,49,59,72,60,64.0,Law,No
+842,Mombasa,Lower,None,85,63,76,51,66,70,41,57,49,62.0,Law,No
+843,Eldoret,Middle,University,57,69,89,42,42,82,56,40,68,61.0,Law,No
+844,Mombasa,Middle,None,85,54,78,68,86,87,89,65,73,76.0,Medicine,Yes
+845,Mombasa,Middle,High School,53,80,76,62,76,76,66,64,77,70.0,Medicine,No
+846,Nairobi,Middle,None,53,47,53,63,86,58,52,62,71,61.0,Law,No
+847,Nairobi,Upper,High School,72,87,85,41,64,81,56,66,40,66.0,Law,Yes
+848,Kisumu,Lower,University,44,83,85,64,55,85,79,43,67,67.0,Law,No
+849,Eldoret,Lower,None,88,62,56,41,49,79,58,89,79,67.0,Law,No
+850,Kisumu,Upper,High School,43,69,70,60,89,40,44,76,61,61.0,Law,Yes
+851,Kisumu,Middle,High School,45,51,71,48,43,72,43,50,54,53.0,Business,No
+852,Kisumu,Upper,None,52,45,76,81,63,63,77,81,47,65.0,Law,Yes
+853,Kisumu,Lower,None,74,71,59,76,54,48,52,72,79,65.0,Law,No
+854,Eldoret,Upper,High School,78,76,72,77,74,51,62,44,62,66.0,Law,Yes
+855,Kisumu,Middle,High School,67,53,43,61,80,60,81,65,76,65.0,Law,Yes
+856,Mombasa,Upper,High School,61,54,40,47,89,63,80,71,78,65.0,Law,No
+857,Nairobi,Upper,High School,65,61,82,49,52,82,55,41,50,60.0,Business,Yes
+858,Eldoret,Upper,None,54,57,49,65,64,44,56,40,84,57.0,Business,No
+859,Nairobi,Middle,High School,40,47,47,75,66,67,70,63,61,60.0,Business,No
+860,Eldoret,Lower,University,64,40,72,85,49,88,88,84,87,73.0,Medicine,Yes
+861,Mombasa,Upper,High School,45,46,68,79,68,72,63,47,82,63.0,Law,No
+862,Kisumu,Lower,High School,55,88,75,70,71,89,89,83,63,76.0,Medicine,Yes
+863,Kisumu,Lower,None,44,66,62,76,67,46,63,89,45,62.0,Law,No
+864,Nairobi,Upper,None,70,51,49,53,81,40,89,45,88,63.0,Law,Yes
+865,Eldoret,Middle,None,75,52,65,81,74,70,71,79,59,70.0,Law,Yes
+866,Nairobi,Middle,None,67,53,47,48,40,76,51,62,76,58.0,Business,Yes
+867,Nairobi,Middle,High School,64,78,67,85,42,43,47,84,67,64.0,Law,No
+868,Mombasa,Middle,University,72,59,45,44,48,83,84,64,48,61.0,Law,No
+869,Kisumu,Middle,University,83,70,55,50,88,52,58,84,82,69.0,Law,No
+870,Kisumu,Upper,University,46,79,64,70,65,75,41,52,88,64.0,Law,No
+871,Eldoret,Middle,High School,66,41,40,46,58,51,46,60,84,55.0,Business,No
+872,Mombasa,Lower,High School,80,45,81,51,63,81,69,77,66,68.0,Law,No
+873,Nairobi,Upper,None,46,67,46,54,63,71,49,52,51,55.0,Business,No
+874,Mombasa,Upper,High School,57,81,77,89,50,70,86,49,45,67.0,Law,Yes
+875,Eldoret,Upper,University,44,50,66,50,66,85,62,47,43,57.0,Business,Yes
+876,Mombasa,Middle,High School,56,73,82,59,54,56,79,80,89,70.0,Law,No
+877,Mombasa,Lower,High School,48,88,53,67,71,77,72,71,69,68.0,Law,Yes
+878,Nairobi,Middle,High School,74,45,52,77,50,87,69,53,72,64.0,Law,No
+879,Nairobi,Middle,None,58,59,71,56,78,77,68,85,72,69.0,Law,Yes
+880,Kisumu,Lower,High School,55,56,78,85,67,84,82,68,65,71.0,Medicine,No
+881,Eldoret,Middle,University,78,57,87,78,54,49,60,50,49,62.0,Law,Yes
+882,Eldoret,Upper,None,64,73,61,49,80,50,80,87,71,68.0,Law,No
+883,Mombasa,Lower,High School,59,47,60,54,58,42,53,60,72,56.0,Business,Yes
+884,Eldoret,Middle,None,84,42,60,51,42,76,40,82,55,59.0,Business,No
+885,Nairobi,Upper,None,89,57,41,45,53,74,86,60,57,62.0,Law,No
+886,Mombasa,Upper,High School,62,41,88,79,75,67,50,54,46,62.0,Law,Yes
+887,Kisumu,Lower,University,82,89,51,68,44,79,78,59,84,70.0,Medicine,Yes
+888,Eldoret,Lower,University,54,56,46,53,79,89,46,50,43,57.0,Business,Yes
+889,Nairobi,Lower,None,71,75,59,46,85,57,74,43,46,62.0,Law,No
+890,Nairobi,Lower,None,47,56,76,58,65,80,86,75,52,66.0,Law,Yes
+891,Eldoret,Lower,High School,70,60,82,45,50,50,51,78,61,61.0,Law,Yes
+892,Kisumu,Upper,High School,56,42,69,79,51,78,62,43,63,60.0,Law,No
+893,Kisumu,Upper,None,87,82,48,71,88,80,55,45,67,69.0,Law,No
+894,Mombasa,Lower,University,77,49,53,47,43,57,52,88,87,61.0,Law,Yes
+895,Mombasa,Lower,None,68,88,51,41,75,74,77,82,56,68.0,Law,Yes
+896,Kisumu,Lower,University,75,46,70,42,67,60,78,43,68,61.0,Law,No
+897,Eldoret,Upper,University,72,67,52,86,49,54,64,84,59,65.0,Law,No
+898,Nairobi,Lower,High School,42,68,77,68,66,57,77,44,65,63.0,Law,Yes
+899,Kisumu,Middle,High School,82,65,44,73,80,69,51,76,44,65.0,Law,Yes
+900,Kisumu,Middle,High School,74,50,69,56,55,69,74,67,61,64.0,Law,Yes
+901,Mombasa,Middle,High School,88,64,69,46,61,55,82,89,84,71.0,Medicine,Yes
+902,Eldoret,Upper,High School,70,55,46,72,44,49,71,49,85,60.0,Law,No
+903,Kisumu,Middle,University,46,85,65,80,83,82,77,86,74,75.0,Medicine,No
+904,Mombasa,Middle,University,70,71,83,66,41,40,65,60,59,62.0,Law,Yes
+905,Mombasa,Upper,None,76,75,74,84,59,82,77,85,65,75.0,Medicine,Yes
+906,Eldoret,Middle,High School,43,84,85,69,82,65,77,56,53,68.0,Law,No
+907,Eldoret,Lower,None,79,86,80,49,89,57,77,71,52,71.0,Medicine,No
+908,Kisumu,Lower,University,77,70,63,88,79,64,40,77,52,68.0,Law,Yes
+909,Eldoret,Lower,High School,43,84,54,79,48,83,72,65,60,65.0,Law,No
+910,Nairobi,Middle,None,61,83,67,85,59,83,56,72,77,71.0,Medicine,No
+911,Mombasa,Upper,High School,40,67,41,47,87,75,40,72,48,57.0,Business,Yes
+912,Mombasa,Lower,None,51,64,65,58,52,67,43,54,40,55.0,Business,No
+913,Eldoret,Middle,None,72,43,62,65,47,45,67,66,49,57.0,Business,Yes
+914,Nairobi,Lower,None,87,47,71,54,54,57,60,40,75,61.0,Law,No
+915,Nairobi,Upper,University,59,79,43,88,64,44,78,62,87,67.0,Law,Yes
+916,Mombasa,Lower,High School,77,53,81,67,44,89,73,56,45,65.0,Law,No
+917,Mombasa,Middle,None,74,85,88,81,86,53,72,45,44,70.0,Law,No
+918,Eldoret,Middle,None,83,63,63,76,82,86,41,51,70,68.0,Law,Yes
+919,Kisumu,Middle,High School,77,84,51,68,51,45,62,80,49,63.0,Law,Yes
+920,Mombasa,Upper,High School,53,50,64,42,44,40,76,85,74,59.0,Business,Yes
+921,Kisumu,Middle,None,79,43,86,75,40,79,88,68,77,71.0,Medicine,No
+922,Mombasa,Middle,None,84,89,70,56,60,78,82,73,58,72.0,Medicine,Yes
+923,Kisumu,Lower,None,42,67,62,70,65,86,60,64,42,62.0,Law,No
+924,Nairobi,Middle,None,87,81,54,69,44,49,64,65,49,62.0,Law,No
+925,Eldoret,Lower,High School,59,89,50,50,62,60,62,66,61,62.0,Law,Yes
+926,Nairobi,Upper,University,79,83,55,43,75,71,64,62,79,68.0,Law,Yes
+927,Mombasa,Upper,None,54,57,58,86,47,79,80,86,54,67.0,Law,Yes
+928,Mombasa,Middle,None,67,84,74,47,76,60,51,83,48,66.0,Law,Yes
+929,Nairobi,Upper,University,52,83,81,66,53,83,45,82,68,68.0,Law,No
+930,Mombasa,Middle,University,50,78,54,86,59,73,41,41,42,58.0,Business,Yes
+931,Nairobi,Middle,None,44,86,60,45,44,77,81,76,78,66.0,Law,No
+932,Mombasa,Lower,None,75,53,56,83,58,62,59,43,40,59.0,Business,Yes
+933,Mombasa,Upper,High School,60,56,50,64,57,41,70,45,42,54.0,Business,Yes
+934,Kisumu,Upper,None,74,40,77,75,53,51,51,78,55,62.0,Law,Yes
+935,Eldoret,Middle,High School,88,48,78,76,45,70,42,46,47,60.0,Law,No
+936,Kisumu,Lower,University,68,78,60,83,51,89,85,56,46,68.0,Law,No
+937,Eldoret,Lower,High School,62,49,53,81,40,44,45,70,50,55.0,Business,Yes
+938,Eldoret,Middle,High School,81,57,72,43,62,61,53,49,75,61.0,Law,Yes
+939,Mombasa,Middle,None,57,69,50,43,53,61,46,57,60,55.0,Business,No
+940,Mombasa,Middle,University,82,63,41,56,57,55,55,59,49,57.0,Business,Yes
+941,Mombasa,Middle,University,50,75,49,89,53,46,78,79,64,65.0,Law,No
+942,Eldoret,Middle,None,49,43,66,76,62,62,55,68,74,62.0,Law,No
+943,Mombasa,Middle,University,83,42,72,70,88,59,55,44,75,65.0,Law,No
+944,Nairobi,Middle,University,64,88,48,72,46,75,54,87,70,67.0,Law,No
+945,Kisumu,Lower,High School,61,84,74,42,42,75,58,55,47,60.0,Business,Yes
+946,Kisumu,Upper,University,83,55,47,66,76,88,47,78,80,69.0,Law,Yes
+947,Eldoret,Middle,High School,79,84,51,69,45,46,60,66,48,61.0,Law,No
+948,Mombasa,Upper,None,83,59,64,63,69,74,67,62,67,68.0,Law,No
+949,Eldoret,Lower,University,83,70,43,75,77,58,50,83,85,69.0,Law,No
+950,Eldoret,Middle,University,88,73,54,46,77,43,42,68,40,59.0,Business,No
+951,Nairobi,Upper,None,69,44,62,54,82,82,79,62,58,66.0,Law,No
+952,Mombasa,Middle,None,82,58,80,55,58,85,56,87,65,70.0,Law,Yes
+953,Mombasa,Lower,High School,56,62,46,55,45,59,65,65,76,59.0,Business,Yes
+954,Nairobi,Lower,None,49,79,74,40,80,85,86,83,67,71.0,Medicine,Yes
+955,Nairobi,Lower,None,58,60,53,66,43,53,56,87,80,62.0,Law,No
+956,Eldoret,Lower,High School,43,83,74,82,48,86,80,66,73,71.0,Medicine,Yes
+957,Nairobi,Upper,High School,42,78,40,62,59,45,71,71,89,62.0,Law,No
+958,Mombasa,Lower,None,89,51,84,43,72,74,53,78,89,70.0,Medicine,No
+959,Kisumu,Middle,None,82,87,75,59,63,41,72,65,70,68.0,Law,No
+960,Nairobi,Middle,None,61,61,79,41,53,53,43,42,52,54.0,Business,Yes
+961,Kisumu,Upper,None,45,89,63,65,43,78,58,68,82,66.0,Law,Yes
+962,Mombasa,Lower,High School,74,50,61,69,67,71,46,55,44,60.0,Business,No
+963,Kisumu,Upper,High School,46,87,47,48,72,43,83,48,77,61.0,Law,No
+964,Kisumu,Lower,High School,60,86,43,80,53,74,55,73,48,64.0,Law,No
+965,Kisumu,Lower,University,70,71,70,49,71,62,52,49,66,62.0,Law,No
+966,Nairobi,Lower,High School,58,59,68,85,69,78,63,65,50,66.0,Law,No
+967,Kisumu,Middle,High School,79,60,69,50,44,43,75,64,59,60.0,Law,Yes
+968,Kisumu,Middle,High School,71,69,43,71,79,86,67,48,70,67.0,Law,Yes
+969,Kisumu,Lower,High School,58,59,44,89,69,43,59,80,55,62.0,Law,No
+970,Mombasa,Middle,None,85,86,68,52,42,63,48,82,75,67.0,Law,No
+971,Nairobi,Middle,University,66,52,47,51,72,51,42,81,60,58.0,Business,Yes
+972,Kisumu,Upper,High School,42,84,74,82,46,58,41,49,48,58.0,Business,Yes
+973,Kisumu,Upper,University,55,59,88,58,78,56,40,67,72,64.0,Law,No
+974,Nairobi,Upper,High School,76,46,52,77,43,77,61,70,70,64.0,Law,No
+975,Mombasa,Middle,None,58,81,64,75,72,54,64,74,78,69.0,Law,No
+976,Eldoret,Upper,High School,47,76,59,85,59,53,80,86,50,66.0,Law,No
+977,Mombasa,Upper,None,46,53,44,87,71,56,82,51,48,60.0,Business,No
+978,Eldoret,Lower,None,53,62,62,67,47,64,55,80,51,60.0,Law,No
+979,Eldoret,Lower,None,67,60,41,67,82,44,53,68,79,62.0,Law,No
+980,Mombasa,Lower,University,82,64,72,51,83,67,73,52,62,67.0,Law,No
+981,Mombasa,Lower,None,70,84,69,86,75,48,42,86,76,71.0,Medicine,Yes
+982,Eldoret,Lower,High School,40,89,78,76,85,72,80,59,40,69.0,Law,No
+983,Eldoret,Lower,University,40,87,67,40,44,80,83,86,50,64.0,Law,No
+984,Mombasa,Upper,None,63,70,54,76,70,64,84,84,76,71.0,Medicine,Yes
+985,Kisumu,Lower,None,57,47,71,60,54,77,72,74,51,63.0,Law,Yes
+986,Kisumu,Upper,High School,89,64,74,49,56,51,54,89,83,68.0,Law,Yes
+987,Eldoret,Lower,University,62,81,73,56,69,76,47,70,54,65.0,Law,Yes
+988,Nairobi,Middle,University,69,64,54,80,72,68,67,89,50,68.0,Law,No
+989,Mombasa,Upper,None,40,79,66,85,62,58,76,47,64,64.0,Law,Yes
+990,Eldoret,Lower,High School,64,74,67,48,59,57,41,85,61,62.0,Law,Yes
+991,Kisumu,Lower,None,53,48,65,83,65,45,60,44,59,58.0,Business,No
+992,Nairobi,Lower,University,59,80,89,88,63,40,43,65,76,67.0,Law,No
+993,Kisumu,Upper,None,78,78,44,62,61,61,77,81,49,66.0,Law,No
+994,Eldoret,Middle,High School,74,56,42,71,45,83,77,64,79,66.0,Law,Yes
+995,Kisumu,Middle,University,73,81,86,75,45,49,73,84,72,71.0,Medicine,No
+996,Mombasa,Middle,High School,88,84,42,77,63,73,64,79,48,69.0,Law,No
+997,Nairobi,Middle,University,60,77,68,58,46,61,76,84,74,67.0,Law,No
+998,Eldoret,Upper,University,45,63,52,60,76,57,88,73,66,64.0,Law,Yes
+999,Nairobi,Lower,University,72,42,70,70,47,68,44,52,86,61.0,Law,No
+1000,Nairobi,Lower,University,69,80,62,71,57,56,85,56,71,67.0,Law,No
